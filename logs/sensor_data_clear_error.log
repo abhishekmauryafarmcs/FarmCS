@@ -1,0 +1,795 @@
+[2024-12-05 19:19:29] Error: Database connection failed | Trace: #0 {main}
+[2024-12-05 19:19:43] Error: Database connection failed | Trace: #0 {main}
+[2024-12-05 19:21:55] Error: Database connection failed | Trace: #0 {main}
+[2024-12-05 19:25:29] Starting sensor data clear process
+[2024-12-05 19:25:29] Database connection established successfully
+[2024-12-05 19:25:29] Transaction begun
+[2024-12-05 19:25:29] Attempting to clear table: light_sensor_data
+[2024-12-05 19:25:29] Successfully cleared table: light_sensor_data
+[2024-12-05 19:25:29] Attempting to clear table: temperature_sensor_data
+[2024-12-05 19:25:29] Exception occurred: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'farmcs.temperature_sensor_data' doesn't exist
+[2024-12-05 19:25:29] Exception trace: #0 C:\xampp\htdocs\FarmCS\handlers\clear_sensor_data.php(75): PDOStatement->execute()
+#1 {main}
+[2024-12-05 19:25:29] Transaction rolled back
+[2024-12-05 19:25:29] Database connection closed
+[2024-12-05 19:28:50] Starting sensor data clear process
+[2024-12-05 19:28:50] Database connection established successfully
+[2024-12-05 19:28:50] Existing tables: 
+[2024-12-05 19:28:50] Transaction begun
+[2024-12-05 19:28:50] Transaction committed successfully
+[2024-12-05 19:28:50] Database connection closed
+[2024-12-05 19:28:57] Starting sensor data clear process
+[2024-12-05 19:28:57] Database connection established successfully
+[2024-12-05 19:28:57] Existing tables: 
+[2024-12-05 19:28:57] Transaction begun
+[2024-12-05 19:28:57] Transaction committed successfully
+[2024-12-05 19:28:57] Database connection closed
+[2024-12-05 19:31:59] Starting sensor data clear process
+[2024-12-05 19:31:59] Database connection established successfully
+[2024-12-05 19:31:59] Transaction begun
+[2024-12-05 19:31:59] Attempting to clear table: light_sensor_data
+[2024-12-05 19:31:59] Successfully cleared table: light_sensor_data
+[2024-12-05 19:31:59] Attempting to clear table: sensor_light_data
+[2024-12-05 19:31:59] Table does not exist: sensor_light_data
+[2024-12-05 19:31:59] Attempting to clear table: temperature_sensor_data
+[2024-12-05 19:31:59] Table does not exist: temperature_sensor_data
+[2024-12-05 19:31:59] Attempting to clear table: humidity_sensor_data
+[2024-12-05 19:31:59] Table does not exist: humidity_sensor_data
+[2024-12-05 19:31:59] Transaction committed successfully
+[2024-12-05 19:31:59] Database connection closed
+[2024-12-05 19:32:14] Starting sensor data clear process
+[2024-12-05 19:32:14] Database connection established successfully
+[2024-12-05 19:32:14] Transaction begun
+[2024-12-05 19:32:14] Attempting to clear table: light_sensor_data
+[2024-12-05 19:32:14] Successfully cleared table: light_sensor_data
+[2024-12-05 19:32:14] Attempting to clear table: sensor_light_data
+[2024-12-05 19:32:14] Table does not exist: sensor_light_data
+[2024-12-05 19:32:14] Attempting to clear table: temperature_sensor_data
+[2024-12-05 19:32:14] Table does not exist: temperature_sensor_data
+[2024-12-05 19:32:14] Attempting to clear table: humidity_sensor_data
+[2024-12-05 19:32:14] Table does not exist: humidity_sensor_data
+[2024-12-05 19:32:14] Transaction committed successfully
+[2024-12-05 19:32:14] Database connection closed
+[2024-12-05 19:32:26] Starting sensor data clear process
+[2024-12-05 19:32:26] Database connection established successfully
+[2024-12-05 19:32:26] Transaction begun
+[2024-12-05 19:32:26] Attempting to clear table: light_sensor_data
+[2024-12-05 19:32:26] Successfully cleared table: light_sensor_data
+[2024-12-05 19:32:26] Attempting to clear table: sensor_light_data
+[2024-12-05 19:32:26] Table does not exist: sensor_light_data
+[2024-12-05 19:32:26] Attempting to clear table: temperature_sensor_data
+[2024-12-05 19:32:26] Table does not exist: temperature_sensor_data
+[2024-12-05 19:32:26] Attempting to clear table: humidity_sensor_data
+[2024-12-05 19:32:26] Table does not exist: humidity_sensor_data
+[2024-12-05 19:32:26] Transaction committed successfully
+[2024-12-05 19:32:26] Database connection closed
+[2024-12-05 19:33:56] Starting sensor data clear process
+[2024-12-05 19:33:56] Database connection established successfully
+[2024-12-05 19:33:56] Transaction begun
+[2024-12-05 19:33:56] Attempting to clear table: light_sensor_data
+[2024-12-05 19:33:56] Successfully cleared table: light_sensor_data
+[2024-12-05 19:33:56] Attempting to clear table: sensor_light_data
+[2024-12-05 19:33:56] Table does not exist: sensor_light_data
+[2024-12-05 19:33:56] Attempting to clear table: temperature_sensor_data
+[2024-12-05 19:33:56] Table does not exist: temperature_sensor_data
+[2024-12-05 19:33:56] Attempting to clear table: humidity_sensor_data
+[2024-12-05 19:33:56] Table does not exist: humidity_sensor_data
+[2024-12-05 19:33:56] Transaction committed successfully
+[2024-12-05 19:33:56] Database connection closed
+[2024-12-05 19:38:02] Starting sensor data clear process
+[2024-12-05 19:38:02] Database connection established successfully
+[2024-12-05 19:38:02] Transaction begun
+[2024-12-05 19:38:02] Attempting to clear table: light_sensor_data
+[2024-12-05 19:38:02] Successfully cleared table: light_sensor_data
+[2024-12-05 19:38:02] Attempting to clear table: sensor_light_data
+[2024-12-05 19:38:02] Table does not exist: sensor_light_data
+[2024-12-05 19:38:02] Attempting to clear table: temperature_sensor_data
+[2024-12-05 19:38:02] Table does not exist: temperature_sensor_data
+[2024-12-05 19:38:02] Attempting to clear table: humidity_sensor_data
+[2024-12-05 19:38:02] Table does not exist: humidity_sensor_data
+[2024-12-05 19:38:02] Transaction committed successfully
+[2024-12-05 19:38:02] Database connection closed
+[2024-12-05 19:39:25] Starting sensor data clear process
+[2024-12-05 19:39:25] Database connection established successfully
+[2024-12-05 19:39:25] Transaction begun
+[2024-12-05 19:39:25] Attempting to clear table: light_sensor_data
+[2024-12-05 19:39:25] Successfully cleared table: light_sensor_data
+[2024-12-05 19:39:25] Attempting to clear table: sensor_light_data
+[2024-12-05 19:39:25] Table does not exist: sensor_light_data
+[2024-12-05 19:39:25] Attempting to clear table: temperature_sensor_data
+[2024-12-05 19:39:25] Table does not exist: temperature_sensor_data
+[2024-12-05 19:39:25] Attempting to clear table: humidity_sensor_data
+[2024-12-05 19:39:25] Table does not exist: humidity_sensor_data
+[2024-12-05 19:39:25] Transaction committed successfully
+[2024-12-05 19:39:25] Database connection closed
+[2024-12-05 19:55:00] Starting sensor data clear process
+[2024-12-05 19:55:00] Database connection established successfully
+[2024-12-05 19:55:00] Transaction begun
+[2024-12-05 19:55:00] Attempting to clear table: light_sensor_data
+[2024-12-05 19:55:00] Successfully cleared table: light_sensor_data
+[2024-12-05 19:55:00] Attempting to clear table: sensor_light_data
+[2024-12-05 19:55:00] Table does not exist: sensor_light_data
+[2024-12-05 19:55:00] Attempting to clear table: temperature_sensor_data
+[2024-12-05 19:55:00] Table does not exist: temperature_sensor_data
+[2024-12-05 19:55:00] Attempting to clear table: humidity_sensor_data
+[2024-12-05 19:55:00] Table does not exist: humidity_sensor_data
+[2024-12-05 19:55:00] Transaction committed successfully
+[2024-12-05 19:55:00] Database connection closed
+[2024-12-05 19:57:26] Starting sensor data clear process
+[2024-12-05 19:57:26] Database connection established successfully
+[2024-12-05 19:57:26] Transaction begun
+[2024-12-05 19:57:26] Attempting to clear table: light_sensor_data
+[2024-12-05 19:57:26] Successfully cleared table: light_sensor_data
+[2024-12-05 19:57:26] Attempting to clear table: sensor_light_data
+[2024-12-05 19:57:26] Table does not exist: sensor_light_data
+[2024-12-05 19:57:26] Attempting to clear table: temperature_sensor_data
+[2024-12-05 19:57:26] Table does not exist: temperature_sensor_data
+[2024-12-05 19:57:26] Attempting to clear table: humidity_sensor_data
+[2024-12-05 19:57:26] Table does not exist: humidity_sensor_data
+[2024-12-05 19:57:26] Transaction committed successfully
+[2024-12-05 19:57:26] Database connection closed
+[2024-12-05 19:58:11] Starting sensor data clear process
+[2024-12-05 19:58:11] Database connection established successfully
+[2024-12-05 19:58:11] Transaction begun
+[2024-12-05 19:58:11] Attempting to clear table: light_sensor_data
+[2024-12-05 19:58:11] Successfully cleared table: light_sensor_data
+[2024-12-05 19:58:11] Attempting to clear table: sensor_light_data
+[2024-12-05 19:58:11] Table does not exist: sensor_light_data
+[2024-12-05 19:58:11] Attempting to clear table: temperature_sensor_data
+[2024-12-05 19:58:11] Table does not exist: temperature_sensor_data
+[2024-12-05 19:58:11] Attempting to clear table: humidity_sensor_data
+[2024-12-05 19:58:11] Table does not exist: humidity_sensor_data
+[2024-12-05 19:58:11] Transaction committed successfully
+[2024-12-05 19:58:11] Database connection closed
+[2024-12-05 20:05:27] Starting sensor data clear process
+[2024-12-05 20:05:27] Database connection established successfully
+[2024-12-05 20:05:27] Transaction begun
+[2024-12-05 20:05:27] Attempting to clear table: light_sensor_data
+[2024-12-05 20:05:27] Successfully cleared table: light_sensor_data
+[2024-12-05 20:05:27] Attempting to clear table: sensor_light_data
+[2024-12-05 20:05:27] Table does not exist: sensor_light_data
+[2024-12-05 20:05:27] Attempting to clear table: temperature_sensor_data
+[2024-12-05 20:05:27] Table does not exist: temperature_sensor_data
+[2024-12-05 20:05:27] Attempting to clear table: humidity_sensor_data
+[2024-12-05 20:05:27] Table does not exist: humidity_sensor_data
+[2024-12-05 20:05:27] Transaction committed successfully
+[2024-12-05 20:05:27] Database connection closed
+[2024-12-06 03:54:11] Starting sensor data clear process
+[2024-12-06 03:54:11] Database connection established successfully
+[2024-12-06 03:54:11] Transaction begun
+[2024-12-06 03:54:11] Attempting to clear table: light_sensor_data
+[2024-12-06 03:54:11] Successfully cleared table: light_sensor_data
+[2024-12-06 03:54:11] Attempting to clear table: sensor_light_data
+[2024-12-06 03:54:11] Table does not exist: sensor_light_data
+[2024-12-06 03:54:11] Attempting to clear table: temperature_sensor_data
+[2024-12-06 03:54:11] Table does not exist: temperature_sensor_data
+[2024-12-06 03:54:11] Attempting to clear table: humidity_sensor_data
+[2024-12-06 03:54:11] Table does not exist: humidity_sensor_data
+[2024-12-06 03:54:11] Transaction committed successfully
+[2024-12-06 03:54:11] Database connection closed
+[2024-12-06 03:57:46] Starting sensor data clear process
+[2024-12-06 03:57:46] Database connection established successfully
+[2024-12-06 03:57:46] Transaction begun
+[2024-12-06 03:57:46] Attempting to clear table: light_sensor_data
+[2024-12-06 03:57:46] Successfully cleared table: light_sensor_data
+[2024-12-06 03:57:46] Attempting to clear table: sensor_light_data
+[2024-12-06 03:57:46] Table does not exist: sensor_light_data
+[2024-12-06 03:57:46] Attempting to clear table: temperature_sensor_data
+[2024-12-06 03:57:46] Table does not exist: temperature_sensor_data
+[2024-12-06 03:57:46] Attempting to clear table: humidity_sensor_data
+[2024-12-06 03:57:46] Table does not exist: humidity_sensor_data
+[2024-12-06 03:57:46] Transaction committed successfully
+[2024-12-06 03:57:46] Database connection closed
+[2024-12-06 04:05:45] Starting sensor data clear process
+[2024-12-06 04:05:45] Database connection established successfully
+[2024-12-06 04:05:45] Transaction begun
+[2024-12-06 04:05:45] Attempting to clear table: light_sensor_data
+[2024-12-06 04:05:45] Successfully cleared table: light_sensor_data
+[2024-12-06 04:05:45] Attempting to clear table: sensor_light_data
+[2024-12-06 04:05:45] Table does not exist: sensor_light_data
+[2024-12-06 04:05:45] Attempting to clear table: temperature_sensor_data
+[2024-12-06 04:05:45] Table does not exist: temperature_sensor_data
+[2024-12-06 04:05:45] Attempting to clear table: humidity_sensor_data
+[2024-12-06 04:05:45] Table does not exist: humidity_sensor_data
+[2024-12-06 04:05:45] Transaction committed successfully
+[2024-12-06 04:05:45] Database connection closed
+[2024-12-06 04:19:06] Starting sensor data clear process
+[2024-12-06 04:19:06] Database connection established successfully
+[2024-12-06 04:19:06] Transaction begun
+[2024-12-06 04:19:06] Attempting to clear table: light_sensor_data
+[2024-12-06 04:19:06] Successfully cleared table: light_sensor_data
+[2024-12-06 04:19:06] Attempting to clear table: sensor_light_data
+[2024-12-06 04:19:06] Table does not exist: sensor_light_data
+[2024-12-06 04:19:06] Attempting to clear table: temperature_sensor_data
+[2024-12-06 04:19:06] Table does not exist: temperature_sensor_data
+[2024-12-06 04:19:06] Attempting to clear table: humidity_sensor_data
+[2024-12-06 04:19:06] Table does not exist: humidity_sensor_data
+[2024-12-06 04:19:06] Transaction committed successfully
+[2024-12-06 04:19:06] Database connection closed
+[2024-12-06 08:41:48] Starting sensor data clear process
+[2024-12-06 08:41:48] Database connection established successfully
+[2024-12-06 08:41:48] Transaction begun
+[2024-12-06 08:41:48] Attempting to clear table: light_sensor_data
+[2024-12-06 08:41:48] Successfully cleared table: light_sensor_data
+[2024-12-06 08:41:48] Attempting to clear table: sensor_light_data
+[2024-12-06 08:41:48] Table does not exist: sensor_light_data
+[2024-12-06 08:41:48] Attempting to clear table: temperature_sensor_data
+[2024-12-06 08:41:48] Table does not exist: temperature_sensor_data
+[2024-12-06 08:41:48] Attempting to clear table: humidity_sensor_data
+[2024-12-06 08:41:48] Table does not exist: humidity_sensor_data
+[2024-12-06 08:41:48] Transaction committed successfully
+[2024-12-06 08:41:48] Database connection closed
+[2024-12-06 08:53:25] Starting sensor data clear process
+[2024-12-06 08:53:25] Database connection established successfully
+[2024-12-06 08:53:25] Transaction begun
+[2024-12-06 08:53:25] Attempting to clear table: light_sensor_data
+[2024-12-06 08:53:25] Successfully cleared table: light_sensor_data
+[2024-12-06 08:53:25] Attempting to clear table: sensor_light_data
+[2024-12-06 08:53:25] Table does not exist: sensor_light_data
+[2024-12-06 08:53:25] Attempting to clear table: temperature_sensor_data
+[2024-12-06 08:53:25] Table does not exist: temperature_sensor_data
+[2024-12-06 08:53:25] Attempting to clear table: humidity_sensor_data
+[2024-12-06 08:53:25] Table does not exist: humidity_sensor_data
+[2024-12-06 08:53:25] Transaction committed successfully
+[2024-12-06 08:53:25] Database connection closed
+[2024-12-06 08:59:37] Starting sensor data clear process
+[2024-12-06 08:59:37] Database connection established successfully
+[2024-12-06 08:59:37] Transaction begun
+[2024-12-06 08:59:37] Attempting to clear table: light_sensor_data
+[2024-12-06 08:59:37] Successfully cleared table: light_sensor_data
+[2024-12-06 08:59:37] Attempting to clear table: sensor_light_data
+[2024-12-06 08:59:37] Table does not exist: sensor_light_data
+[2024-12-06 08:59:37] Attempting to clear table: temperature_sensor_data
+[2024-12-06 08:59:37] Table does not exist: temperature_sensor_data
+[2024-12-06 08:59:37] Attempting to clear table: humidity_sensor_data
+[2024-12-06 08:59:37] Table does not exist: humidity_sensor_data
+[2024-12-06 08:59:37] Transaction committed successfully
+[2024-12-06 08:59:37] Database connection closed
+[2024-12-06 09:03:43] Starting sensor data clear process
+[2024-12-06 09:03:43] Database connection established successfully
+[2024-12-06 09:03:43] Transaction begun
+[2024-12-06 09:03:43] Attempting to clear table: light_sensor_data
+[2024-12-06 09:03:43] Successfully cleared table: light_sensor_data
+[2024-12-06 09:03:43] Attempting to clear table: sensor_light_data
+[2024-12-06 09:03:43] Table does not exist: sensor_light_data
+[2024-12-06 09:03:43] Attempting to clear table: temperature_sensor_data
+[2024-12-06 09:03:43] Table does not exist: temperature_sensor_data
+[2024-12-06 09:03:43] Attempting to clear table: humidity_sensor_data
+[2024-12-06 09:03:43] Table does not exist: humidity_sensor_data
+[2024-12-06 09:03:43] Transaction committed successfully
+[2024-12-06 09:03:43] Database connection closed
+[2024-12-06 10:09:05] Starting sensor data clear process
+[2024-12-06 10:09:05] Database connection established successfully
+[2024-12-06 10:09:05] Transaction begun
+[2024-12-06 10:09:05] Attempting to clear table: light_sensor_data
+[2024-12-06 10:09:05] Successfully cleared table: light_sensor_data
+[2024-12-06 10:09:05] Attempting to clear table: sensor_light_data
+[2024-12-06 10:09:05] Table does not exist: sensor_light_data
+[2024-12-06 10:09:05] Attempting to clear table: temperature_sensor_data
+[2024-12-06 10:09:05] Table does not exist: temperature_sensor_data
+[2024-12-06 10:09:05] Attempting to clear table: humidity_sensor_data
+[2024-12-06 10:09:05] Table does not exist: humidity_sensor_data
+[2024-12-06 10:09:05] Transaction committed successfully
+[2024-12-06 10:09:05] Database connection closed
+[2024-12-06 11:36:54] Starting sensor data clear process
+[2024-12-06 11:36:54] Database connection established successfully
+[2024-12-06 11:36:54] Transaction begun
+[2024-12-06 11:36:54] Attempting to clear table: light_sensor_data
+[2024-12-06 11:36:54] Successfully cleared table: light_sensor_data
+[2024-12-06 11:36:54] Attempting to clear table: sensor_light_data
+[2024-12-06 11:36:54] Table does not exist: sensor_light_data
+[2024-12-06 11:36:54] Attempting to clear table: temperature_sensor_data
+[2024-12-06 11:36:54] Table does not exist: temperature_sensor_data
+[2024-12-06 11:36:54] Attempting to clear table: humidity_sensor_data
+[2024-12-06 11:36:54] Table does not exist: humidity_sensor_data
+[2024-12-06 11:36:54] Transaction committed successfully
+[2024-12-06 11:36:54] Database connection closed
+[2024-12-06 16:10:49] Starting sensor data clear process
+[2024-12-06 16:10:49] Database connection established successfully
+[2024-12-06 16:10:49] Transaction begun
+[2024-12-06 16:10:49] Attempting to clear table: light_sensor_data
+[2024-12-06 16:10:49] Successfully cleared table: light_sensor_data
+[2024-12-06 16:10:49] Attempting to clear table: sensor_light_data
+[2024-12-06 16:10:49] Table does not exist: sensor_light_data
+[2024-12-06 16:10:49] Attempting to clear table: temperature_sensor_data
+[2024-12-06 16:10:49] Table does not exist: temperature_sensor_data
+[2024-12-06 16:10:49] Attempting to clear table: humidity_sensor_data
+[2024-12-06 16:10:49] Table does not exist: humidity_sensor_data
+[2024-12-06 16:10:49] Transaction committed successfully
+[2024-12-06 16:10:49] Database connection closed
+[2024-12-06 16:25:07] Starting sensor data clear process
+[2024-12-06 16:25:07] Database connection established successfully
+[2024-12-06 16:25:07] Exception occurred: User not authenticated
+[2024-12-06 16:25:07] Exception trace: #0 {main}
+[2024-12-06 16:25:07] Error during rollback: There is no active transaction
+[2024-12-06 16:25:07] Database connection closed
+[2024-12-06 16:51:54] Starting sensor data clear process
+[2024-12-06 16:51:54] Database connection established successfully
+[2024-12-06 16:51:54] Transaction begun
+[2024-12-06 16:51:54] Attempting to clear table: light_sensor_data
+[2024-12-06 16:51:54] Successfully cleared table: light_sensor_data
+[2024-12-06 16:51:54] Attempting to clear table: sensor_light_data
+[2024-12-06 16:51:54] Table does not exist: sensor_light_data
+[2024-12-06 16:51:54] Attempting to clear table: temperature_sensor_data
+[2024-12-06 16:51:54] Table does not exist: temperature_sensor_data
+[2024-12-06 16:51:54] Attempting to clear table: humidity_sensor_data
+[2024-12-06 16:51:54] Table does not exist: humidity_sensor_data
+[2024-12-06 16:51:54] Transaction committed successfully
+[2024-12-06 16:51:54] Database connection closed
+[2024-12-06 17:02:20] Starting sensor data clear process
+[2024-12-06 17:02:20] Database connection established successfully
+[2024-12-06 17:02:20] Transaction begun
+[2024-12-06 17:02:20] Attempting to clear table: light_sensor_data
+[2024-12-06 17:02:20] Successfully cleared table: light_sensor_data
+[2024-12-06 17:02:20] Attempting to clear table: sensor_light_data
+[2024-12-06 17:02:20] Table does not exist: sensor_light_data
+[2024-12-06 17:02:20] Attempting to clear table: temperature_sensor_data
+[2024-12-06 17:02:20] Table does not exist: temperature_sensor_data
+[2024-12-06 17:02:20] Attempting to clear table: humidity_sensor_data
+[2024-12-06 17:02:20] Table does not exist: humidity_sensor_data
+[2024-12-06 17:02:20] Transaction committed successfully
+[2024-12-06 17:02:20] Database connection closed
+[2024-12-06 17:14:33] Starting sensor data clear process
+[2024-12-06 17:14:33] Database connection established successfully
+[2024-12-06 17:14:33] Transaction begun
+[2024-12-06 17:14:33] Attempting to clear table: light_sensor_data
+[2024-12-06 17:14:33] Successfully cleared table: light_sensor_data
+[2024-12-06 17:14:33] Attempting to clear table: sensor_light_data
+[2024-12-06 17:14:33] Table does not exist: sensor_light_data
+[2024-12-06 17:14:33] Attempting to clear table: temperature_sensor_data
+[2024-12-06 17:14:33] Table does not exist: temperature_sensor_data
+[2024-12-06 17:14:33] Attempting to clear table: humidity_sensor_data
+[2024-12-06 17:14:33] Table does not exist: humidity_sensor_data
+[2024-12-06 17:14:33] Transaction committed successfully
+[2024-12-06 17:14:33] Database connection closed
+[2024-12-06 17:19:05] Starting sensor data clear process
+[2024-12-06 17:19:05] Database connection established successfully
+[2024-12-06 17:19:05] Transaction begun
+[2024-12-06 17:19:05] Attempting to clear table: light_sensor_data
+[2024-12-06 17:19:05] Successfully cleared table: light_sensor_data
+[2024-12-06 17:19:05] Attempting to clear table: sensor_light_data
+[2024-12-06 17:19:05] Table does not exist: sensor_light_data
+[2024-12-06 17:19:05] Attempting to clear table: temperature_sensor_data
+[2024-12-06 17:19:05] Table does not exist: temperature_sensor_data
+[2024-12-06 17:19:05] Attempting to clear table: humidity_sensor_data
+[2024-12-06 17:19:05] Table does not exist: humidity_sensor_data
+[2024-12-06 17:19:05] Transaction committed successfully
+[2024-12-06 17:19:05] Database connection closed
+[2024-12-06 18:19:12] Starting sensor data clear process
+[2024-12-06 18:19:12] Database connection established successfully
+[2024-12-06 18:19:12] Transaction begun
+[2024-12-06 18:19:12] Attempting to clear table: light_sensor_data
+[2024-12-06 18:19:12] Successfully cleared table: light_sensor_data
+[2024-12-06 18:19:12] Attempting to clear table: sensor_light_data
+[2024-12-06 18:19:12] Table does not exist: sensor_light_data
+[2024-12-06 18:19:12] Attempting to clear table: temperature_sensor_data
+[2024-12-06 18:19:12] Table does not exist: temperature_sensor_data
+[2024-12-06 18:19:12] Attempting to clear table: humidity_sensor_data
+[2024-12-06 18:19:12] Table does not exist: humidity_sensor_data
+[2024-12-06 18:19:12] Transaction committed successfully
+[2024-12-06 18:19:12] Database connection closed
+[2024-12-06 18:21:49] Starting sensor data clear process
+[2024-12-06 18:21:49] Database connection established successfully
+[2024-12-06 18:21:49] Transaction begun
+[2024-12-06 18:21:49] Attempting to clear table: light_sensor_data
+[2024-12-06 18:21:49] Successfully cleared table: light_sensor_data
+[2024-12-06 18:21:49] Attempting to clear table: sensor_light_data
+[2024-12-06 18:21:49] Table does not exist: sensor_light_data
+[2024-12-06 18:21:49] Attempting to clear table: temperature_sensor_data
+[2024-12-06 18:21:49] Table does not exist: temperature_sensor_data
+[2024-12-06 18:21:49] Attempting to clear table: humidity_sensor_data
+[2024-12-06 18:21:49] Table does not exist: humidity_sensor_data
+[2024-12-06 18:21:49] Attempting to clear table: soil_moisture_data
+[2024-12-06 18:21:49] Successfully cleared table: soil_moisture_data
+[2024-12-06 18:21:49] Transaction committed successfully
+[2024-12-06 18:21:49] Database connection closed
+[2024-12-06 18:25:30] Starting sensor data clear process
+[2024-12-06 18:25:30] Database connection established successfully
+[2024-12-06 18:25:30] Transaction begun
+[2024-12-06 18:25:30] Attempting to clear table: light_sensor_data
+[2024-12-06 18:25:30] Successfully cleared table: light_sensor_data
+[2024-12-06 18:25:30] Attempting to clear table: sensor_light_data
+[2024-12-06 18:25:30] Table does not exist: sensor_light_data
+[2024-12-06 18:25:30] Attempting to clear table: temperature_sensor_data
+[2024-12-06 18:25:30] Table does not exist: temperature_sensor_data
+[2024-12-06 18:25:30] Attempting to clear table: humidity_sensor_data
+[2024-12-06 18:25:30] Table does not exist: humidity_sensor_data
+[2024-12-06 18:25:30] Attempting to clear table: soil_moisture_data
+[2024-12-06 18:25:30] Successfully cleared table: soil_moisture_data
+[2024-12-06 18:25:30] Transaction committed successfully
+[2024-12-06 18:25:30] Database connection closed
+[2024-12-06 18:42:26] Starting sensor data clear process
+[2024-12-06 18:42:26] Database connection established successfully
+[2024-12-06 18:42:26] Transaction begun
+[2024-12-06 18:42:26] Attempting to clear table: light_sensor_data
+[2024-12-06 18:42:26] Successfully cleared table: light_sensor_data
+[2024-12-06 18:42:26] Attempting to clear table: sensor_light_data
+[2024-12-06 18:42:26] Table does not exist: sensor_light_data
+[2024-12-06 18:42:26] Attempting to clear table: temperature_sensor_data
+[2024-12-06 18:42:26] Table does not exist: temperature_sensor_data
+[2024-12-06 18:42:26] Attempting to clear table: humidity_sensor_data
+[2024-12-06 18:42:26] Table does not exist: humidity_sensor_data
+[2024-12-06 18:42:26] Attempting to clear table: soil_moisture_data
+[2024-12-06 18:42:26] Successfully cleared table: soil_moisture_data
+[2024-12-06 18:42:26] Attempting to clear table: temperature_sensor_data_table
+[2024-12-06 18:42:26] Table does not exist: temperature_sensor_data_table
+[2024-12-06 18:42:26] Attempting to clear table: humidity_sensor_data_table
+[2024-12-06 18:42:26] Table does not exist: humidity_sensor_data_table
+[2024-12-06 18:42:26] Transaction committed successfully
+[2024-12-06 18:42:26] Database connection closed
+[2024-12-06 18:51:02] Starting sensor data clear process
+[2024-12-06 18:51:02] Database connection established successfully
+[2024-12-06 18:51:02] Transaction begun
+[2024-12-06 18:51:02] Attempting to clear table: light_sensor_data
+[2024-12-06 18:51:02] Successfully cleared table: light_sensor_data
+[2024-12-06 18:51:02] Attempting to clear table: sensor_light_data
+[2024-12-06 18:51:02] Table does not exist: sensor_light_data
+[2024-12-06 18:51:02] Attempting to clear table: temperature_sensor_data
+[2024-12-06 18:51:02] Table does not exist: temperature_sensor_data
+[2024-12-06 18:51:02] Attempting to clear table: humidity_sensor_data
+[2024-12-06 18:51:02] Table does not exist: humidity_sensor_data
+[2024-12-06 18:51:02] Attempting to clear table: soil_moisture_data
+[2024-12-06 18:51:02] Successfully cleared table: soil_moisture_data
+[2024-12-06 18:51:02] Attempting to clear table: temperature_sensor_data_table
+[2024-12-06 18:51:02] Table does not exist: temperature_sensor_data_table
+[2024-12-06 18:51:02] Attempting to clear table: humidity_sensor_data_table
+[2024-12-06 18:51:02] Table does not exist: humidity_sensor_data_table
+[2024-12-06 18:51:02] Transaction committed successfully
+[2024-12-06 18:51:02] Database connection closed
+[2024-12-06 19:19:53] Starting sensor data clear process
+[2024-12-06 19:19:54] Database connection established successfully
+[2024-12-06 19:19:54] Transaction begun
+[2024-12-06 19:19:54] Attempting to clear table: light_sensor_data
+[2024-12-06 19:19:54] Successfully cleared table: light_sensor_data
+[2024-12-06 19:19:54] Attempting to clear table: sensor_light_data
+[2024-12-06 19:19:54] Table does not exist: sensor_light_data
+[2024-12-06 19:19:54] Attempting to clear table: temperature_sensor_data
+[2024-12-06 19:19:54] Table does not exist: temperature_sensor_data
+[2024-12-06 19:19:54] Attempting to clear table: humidity_sensor_data
+[2024-12-06 19:19:54] Table does not exist: humidity_sensor_data
+[2024-12-06 19:19:54] Attempting to clear table: soil_moisture_data
+[2024-12-06 19:19:54] Successfully cleared table: soil_moisture_data
+[2024-12-06 19:19:54] Attempting to clear table: temperature_sensor_data_table
+[2024-12-06 19:19:54] Table does not exist: temperature_sensor_data_table
+[2024-12-06 19:19:54] Attempting to clear table: humidity_sensor_data_table
+[2024-12-06 19:19:54] Table does not exist: humidity_sensor_data_table
+[2024-12-06 19:19:54] Transaction committed successfully
+[2024-12-06 19:19:54] Database connection closed
+[2024-12-06 19:20:37] Starting sensor data clear process
+[2024-12-06 19:20:37] Database connection established successfully
+[2024-12-06 19:20:37] Transaction begun
+[2024-12-06 19:20:37] Attempting to clear table: light_sensor_data
+[2024-12-06 19:20:37] Successfully cleared table: light_sensor_data
+[2024-12-06 19:20:37] Attempting to clear table: sensor_light_data
+[2024-12-06 19:20:37] Table does not exist: sensor_light_data
+[2024-12-06 19:20:37] Attempting to clear table: temperature_sensor_data
+[2024-12-06 19:20:37] Table does not exist: temperature_sensor_data
+[2024-12-06 19:20:37] Attempting to clear table: humidity_sensor_data
+[2024-12-06 19:20:37] Table does not exist: humidity_sensor_data
+[2024-12-06 19:20:37] Attempting to clear table: soil_moisture_data
+[2024-12-06 19:20:37] Successfully cleared table: soil_moisture_data
+[2024-12-06 19:20:37] Attempting to clear table: temperature_sensor_data_table
+[2024-12-06 19:20:37] Table does not exist: temperature_sensor_data_table
+[2024-12-06 19:20:37] Attempting to clear table: humidity_sensor_data_table
+[2024-12-06 19:20:37] Table does not exist: humidity_sensor_data_table
+[2024-12-06 19:20:37] Transaction committed successfully
+[2024-12-06 19:20:37] Database connection closed
+[2024-12-06 19:26:01] Starting sensor data clear process
+[2024-12-06 19:26:01] Database connection established successfully
+[2024-12-06 19:26:01] Transaction begun
+[2024-12-06 19:26:01] Attempting to clear table: light_sensor_data
+[2024-12-06 19:26:01] Successfully cleared table: light_sensor_data
+[2024-12-06 19:26:01] Attempting to clear table: sensor_light_data
+[2024-12-06 19:26:01] Table does not exist: sensor_light_data
+[2024-12-06 19:26:01] Attempting to clear table: temperature_sensor_data
+[2024-12-06 19:26:01] Table does not exist: temperature_sensor_data
+[2024-12-06 19:26:01] Attempting to clear table: humidity_sensor_data
+[2024-12-06 19:26:01] Table does not exist: humidity_sensor_data
+[2024-12-06 19:26:01] Attempting to clear table: soil_moisture_data
+[2024-12-06 19:26:01] Successfully cleared table: soil_moisture_data
+[2024-12-06 19:26:01] Attempting to clear table: temperature_sensor_data_table
+[2024-12-06 19:26:01] Table does not exist: temperature_sensor_data_table
+[2024-12-06 19:26:01] Attempting to clear table: humidity_sensor_data_table
+[2024-12-06 19:26:01] Table does not exist: humidity_sensor_data_table
+[2024-12-06 19:26:01] Transaction committed successfully
+[2024-12-06 19:26:01] Database connection closed
+[2024-12-06 20:34:21] Starting sensor data clear process
+[2024-12-06 20:34:21] Database connection established successfully
+[2024-12-06 20:34:21] Transaction begun
+[2024-12-06 20:34:21] Attempting to clear table: light_sensor_data
+[2024-12-06 20:34:21] Successfully cleared table: light_sensor_data
+[2024-12-06 20:34:21] Attempting to clear table: sensor_light_data
+[2024-12-06 20:34:21] Table does not exist: sensor_light_data
+[2024-12-06 20:34:21] Attempting to clear table: temperature_sensor_data
+[2024-12-06 20:34:21] Table does not exist: temperature_sensor_data
+[2024-12-06 20:34:21] Attempting to clear table: humidity_sensor_data
+[2024-12-06 20:34:21] Table does not exist: humidity_sensor_data
+[2024-12-06 20:34:21] Attempting to clear table: soil_moisture_data
+[2024-12-06 20:34:21] Successfully cleared table: soil_moisture_data
+[2024-12-06 20:34:21] Attempting to clear table: temperature_sensor_data_table
+[2024-12-06 20:34:21] Table does not exist: temperature_sensor_data_table
+[2024-12-06 20:34:21] Attempting to clear table: humidity_sensor_data_table
+[2024-12-06 20:34:21] Table does not exist: humidity_sensor_data_table
+[2024-12-06 20:34:21] Transaction committed successfully
+[2024-12-06 20:34:21] Database connection closed
+[2024-12-06 20:57:28] Starting sensor data clear process
+[2024-12-06 20:57:28] Database connection established successfully
+[2024-12-06 20:57:28] Transaction begun
+[2024-12-06 20:57:28] Attempting to clear table: light_sensor_data
+[2024-12-06 20:57:28] Successfully cleared table: light_sensor_data
+[2024-12-06 20:57:28] Attempting to clear table: sensor_light_data
+[2024-12-06 20:57:28] Table does not exist: sensor_light_data
+[2024-12-06 20:57:28] Attempting to clear table: temperature_sensor_data
+[2024-12-06 20:57:28] Table does not exist: temperature_sensor_data
+[2024-12-06 20:57:28] Attempting to clear table: humidity_sensor_data
+[2024-12-06 20:57:28] Table does not exist: humidity_sensor_data
+[2024-12-06 20:57:28] Attempting to clear table: soil_moisture_data
+[2024-12-06 20:57:28] Successfully cleared table: soil_moisture_data
+[2024-12-06 20:57:28] Attempting to clear table: temperature_sensor_data_table
+[2024-12-06 20:57:28] Table does not exist: temperature_sensor_data_table
+[2024-12-06 20:57:28] Attempting to clear table: humidity_sensor_data_table
+[2024-12-06 20:57:28] Table does not exist: humidity_sensor_data_table
+[2024-12-06 20:57:28] Transaction committed successfully
+[2024-12-06 20:57:28] Database connection closed
+[2024-12-07 04:47:12] Starting sensor data clear process
+[2024-12-07 04:47:12] Database connection established successfully
+[2024-12-07 04:47:12] Transaction begun
+[2024-12-07 04:47:12] Attempting to clear table: light_sensor_data
+[2024-12-07 04:47:12] Successfully cleared table: light_sensor_data
+[2024-12-07 04:47:12] Attempting to clear table: sensor_light_data
+[2024-12-07 04:47:12] Table does not exist: sensor_light_data
+[2024-12-07 04:47:12] Attempting to clear table: temperature_sensor_data
+[2024-12-07 04:47:12] Table does not exist: temperature_sensor_data
+[2024-12-07 04:47:12] Attempting to clear table: humidity_sensor_data
+[2024-12-07 04:47:12] Table does not exist: humidity_sensor_data
+[2024-12-07 04:47:12] Attempting to clear table: soil_moisture_data
+[2024-12-07 04:47:12] Successfully cleared table: soil_moisture_data
+[2024-12-07 04:47:12] Attempting to clear table: temperature_sensor_data_table
+[2024-12-07 04:47:12] Table does not exist: temperature_sensor_data_table
+[2024-12-07 04:47:12] Attempting to clear table: humidity_sensor_data_table
+[2024-12-07 04:47:12] Table does not exist: humidity_sensor_data_table
+[2024-12-07 04:47:12] Transaction committed successfully
+[2024-12-07 04:47:12] Database connection closed
+[2024-12-07 05:06:38] Starting sensor data clear process
+[2024-12-07 05:06:38] Database connection established successfully
+[2024-12-07 05:06:38] Transaction begun
+[2024-12-07 05:06:38] Attempting to clear table: light_sensor_data
+[2024-12-07 05:06:38] Successfully cleared table: light_sensor_data
+[2024-12-07 05:06:38] Attempting to clear table: sensor_light_data
+[2024-12-07 05:06:38] Table does not exist: sensor_light_data
+[2024-12-07 05:06:38] Attempting to clear table: temperature_sensor_data
+[2024-12-07 05:06:38] Table does not exist: temperature_sensor_data
+[2024-12-07 05:06:38] Attempting to clear table: humidity_sensor_data
+[2024-12-07 05:06:38] Table does not exist: humidity_sensor_data
+[2024-12-07 05:06:38] Attempting to clear table: soil_moisture_data
+[2024-12-07 05:06:38] Successfully cleared table: soil_moisture_data
+[2024-12-07 05:06:38] Attempting to clear table: temperature_sensor_data_table
+[2024-12-07 05:06:38] Table does not exist: temperature_sensor_data_table
+[2024-12-07 05:06:38] Attempting to clear table: humidity_sensor_data_table
+[2024-12-07 05:06:38] Table does not exist: humidity_sensor_data_table
+[2024-12-07 05:06:38] Transaction committed successfully
+[2024-12-07 05:06:38] Database connection closed
+[2024-12-07 06:18:26] Starting sensor data clear process
+[2024-12-07 06:18:26] Database connection established successfully
+[2024-12-07 06:18:26] Transaction begun
+[2024-12-07 06:18:26] Attempting to clear table: light_sensor_data
+[2024-12-07 06:18:26] Successfully cleared table: light_sensor_data
+[2024-12-07 06:18:26] Attempting to clear table: sensor_light_data
+[2024-12-07 06:18:26] Table does not exist: sensor_light_data
+[2024-12-07 06:18:26] Attempting to clear table: temperature_sensor_data
+[2024-12-07 06:18:26] Table does not exist: temperature_sensor_data
+[2024-12-07 06:18:26] Attempting to clear table: humidity_sensor_data
+[2024-12-07 06:18:26] Table does not exist: humidity_sensor_data
+[2024-12-07 06:18:26] Attempting to clear table: soil_moisture_data
+[2024-12-07 06:18:26] Successfully cleared table: soil_moisture_data
+[2024-12-07 06:18:26] Attempting to clear table: temperature_sensor_data_table
+[2024-12-07 06:18:26] Table does not exist: temperature_sensor_data_table
+[2024-12-07 06:18:26] Attempting to clear table: humidity_sensor_data_table
+[2024-12-07 06:18:26] Table does not exist: humidity_sensor_data_table
+[2024-12-07 06:18:26] Transaction committed successfully
+[2024-12-07 06:18:26] Database connection closed
+[2024-12-07 06:40:15] Starting sensor data clear process
+[2024-12-07 06:40:15] Database connection established successfully
+[2024-12-07 06:40:15] Transaction begun
+[2024-12-07 06:40:15] Attempting to clear table: light_sensor_data
+[2024-12-07 06:40:15] Successfully cleared table: light_sensor_data
+[2024-12-07 06:40:15] Attempting to clear table: sensor_light_data
+[2024-12-07 06:40:15] Table does not exist: sensor_light_data
+[2024-12-07 06:40:15] Attempting to clear table: temperature_sensor_data
+[2024-12-07 06:40:15] Table does not exist: temperature_sensor_data
+[2024-12-07 06:40:15] Attempting to clear table: humidity_sensor_data
+[2024-12-07 06:40:15] Table does not exist: humidity_sensor_data
+[2024-12-07 06:40:15] Attempting to clear table: soil_moisture_data
+[2024-12-07 06:40:15] Successfully cleared table: soil_moisture_data
+[2024-12-07 06:40:15] Attempting to clear table: temperature_sensor_data_table
+[2024-12-07 06:40:15] Table does not exist: temperature_sensor_data_table
+[2024-12-07 06:40:15] Attempting to clear table: humidity_sensor_data_table
+[2024-12-07 06:40:15] Table does not exist: humidity_sensor_data_table
+[2024-12-07 06:40:15] Transaction committed successfully
+[2024-12-07 06:40:15] Database connection closed
+[2024-12-07 06:55:04] Starting sensor data clear process
+[2024-12-07 06:55:04] Database connection established successfully
+[2024-12-07 06:55:04] Transaction begun
+[2024-12-07 06:55:04] Attempting to clear table: light_sensor_data
+[2024-12-07 06:55:04] Successfully cleared table: light_sensor_data
+[2024-12-07 06:55:04] Attempting to clear table: sensor_light_data
+[2024-12-07 06:55:04] Table does not exist: sensor_light_data
+[2024-12-07 06:55:04] Attempting to clear table: temperature_sensor_data
+[2024-12-07 06:55:04] Table does not exist: temperature_sensor_data
+[2024-12-07 06:55:04] Attempting to clear table: humidity_sensor_data
+[2024-12-07 06:55:04] Table does not exist: humidity_sensor_data
+[2024-12-07 06:55:04] Attempting to clear table: soil_moisture_data
+[2024-12-07 06:55:04] Successfully cleared table: soil_moisture_data
+[2024-12-07 06:55:04] Attempting to clear table: temperature_sensor_data_table
+[2024-12-07 06:55:04] Table does not exist: temperature_sensor_data_table
+[2024-12-07 06:55:04] Attempting to clear table: humidity_sensor_data_table
+[2024-12-07 06:55:04] Table does not exist: humidity_sensor_data_table
+[2024-12-07 06:55:04] Transaction committed successfully
+[2024-12-07 06:55:04] Database connection closed
+[2024-12-07 06:56:46] Starting sensor data clear process
+[2024-12-07 06:56:46] Database connection established successfully
+[2024-12-07 06:56:46] Transaction begun
+[2024-12-07 06:56:46] Attempting to clear table: light_sensor_data
+[2024-12-07 06:56:46] Successfully cleared table: light_sensor_data
+[2024-12-07 06:56:46] Attempting to clear table: sensor_light_data
+[2024-12-07 06:56:46] Table does not exist: sensor_light_data
+[2024-12-07 06:56:46] Attempting to clear table: temperature_sensor_data
+[2024-12-07 06:56:46] Table does not exist: temperature_sensor_data
+[2024-12-07 06:56:46] Attempting to clear table: humidity_sensor_data
+[2024-12-07 06:56:46] Table does not exist: humidity_sensor_data
+[2024-12-07 06:56:46] Attempting to clear table: soil_moisture_data
+[2024-12-07 06:56:46] Successfully cleared table: soil_moisture_data
+[2024-12-07 06:56:46] Attempting to clear table: temperature_sensor_data_table
+[2024-12-07 06:56:46] Table does not exist: temperature_sensor_data_table
+[2024-12-07 06:56:46] Attempting to clear table: humidity_sensor_data_table
+[2024-12-07 06:56:46] Table does not exist: humidity_sensor_data_table
+[2024-12-07 06:56:46] Transaction committed successfully
+[2024-12-07 06:56:46] Database connection closed
+[2024-12-07 07:01:52] Starting sensor data clear process
+[2024-12-07 07:01:53] Database connection established successfully
+[2024-12-07 07:01:53] Transaction begun
+[2024-12-07 07:01:53] Attempting to clear table: light_sensor_data
+[2024-12-07 07:01:53] Successfully cleared table: light_sensor_data
+[2024-12-07 07:01:53] Attempting to clear table: sensor_light_data
+[2024-12-07 07:01:53] Table does not exist: sensor_light_data
+[2024-12-07 07:01:53] Attempting to clear table: temperature_sensor_data
+[2024-12-07 07:01:53] Table does not exist: temperature_sensor_data
+[2024-12-07 07:01:53] Attempting to clear table: humidity_sensor_data
+[2024-12-07 07:01:53] Table does not exist: humidity_sensor_data
+[2024-12-07 07:01:53] Attempting to clear table: soil_moisture_data
+[2024-12-07 07:01:53] Successfully cleared table: soil_moisture_data
+[2024-12-07 07:01:53] Attempting to clear table: temperature_sensor_data_table
+[2024-12-07 07:01:53] Table does not exist: temperature_sensor_data_table
+[2024-12-07 07:01:53] Attempting to clear table: humidity_sensor_data_table
+[2024-12-07 07:01:53] Table does not exist: humidity_sensor_data_table
+[2024-12-07 07:01:53] Transaction committed successfully
+[2024-12-07 07:01:53] Database connection closed
+[2024-12-07 10:28:59] Starting sensor data clear process
+[2024-12-07 10:28:59] Database connection established successfully
+[2024-12-07 10:28:59] Exception occurred: User not authenticated
+[2024-12-07 10:28:59] Exception trace: #0 {main}
+[2024-12-07 10:28:59] Error during rollback: There is no active transaction
+[2024-12-07 10:28:59] Database connection closed
+[2024-12-07 14:45:01] Starting sensor data clear process
+[2024-12-07 14:45:01] Database connection established successfully
+[2024-12-07 14:45:01] Transaction begun
+[2024-12-07 14:45:01] Attempting to clear table: light_sensor_data
+[2024-12-07 14:45:01] Successfully cleared table: light_sensor_data
+[2024-12-07 14:45:01] Attempting to clear table: sensor_light_data
+[2024-12-07 14:45:01] Table does not exist: sensor_light_data
+[2024-12-07 14:45:02] Attempting to clear table: temperature_sensor_data
+[2024-12-07 14:45:02] Table does not exist: temperature_sensor_data
+[2024-12-07 14:45:02] Attempting to clear table: humidity_sensor_data
+[2024-12-07 14:45:02] Table does not exist: humidity_sensor_data
+[2024-12-07 14:45:02] Attempting to clear table: soil_moisture_data
+[2024-12-07 14:45:02] Successfully cleared table: soil_moisture_data
+[2024-12-07 14:45:02] Attempting to clear table: temperature_sensor_data_table
+[2024-12-07 14:45:02] Table does not exist: temperature_sensor_data_table
+[2024-12-07 14:45:02] Attempting to clear table: humidity_sensor_data_table
+[2024-12-07 14:45:02] Table does not exist: humidity_sensor_data_table
+[2024-12-07 14:45:02] Transaction committed successfully
+[2024-12-07 14:45:02] Database connection closed
+[2024-12-07 14:57:12] Starting sensor data clear process
+[2024-12-07 14:57:12] Database connection established successfully
+[2024-12-07 14:57:12] Transaction begun
+[2024-12-07 14:57:12] Attempting to clear table: light_sensor_data
+[2024-12-07 14:57:12] Successfully cleared table: light_sensor_data
+[2024-12-07 14:57:12] Attempting to clear table: sensor_light_data
+[2024-12-07 14:57:12] Table does not exist: sensor_light_data
+[2024-12-07 14:57:12] Attempting to clear table: temperature_sensor_data
+[2024-12-07 14:57:12] Table does not exist: temperature_sensor_data
+[2024-12-07 14:57:12] Attempting to clear table: humidity_sensor_data
+[2024-12-07 14:57:12] Table does not exist: humidity_sensor_data
+[2024-12-07 14:57:12] Attempting to clear table: soil_moisture_data
+[2024-12-07 14:57:12] Successfully cleared table: soil_moisture_data
+[2024-12-07 14:57:12] Attempting to clear table: temperature_sensor_data_table
+[2024-12-07 14:57:12] Table does not exist: temperature_sensor_data_table
+[2024-12-07 14:57:12] Attempting to clear table: humidity_sensor_data_table
+[2024-12-07 14:57:12] Table does not exist: humidity_sensor_data_table
+[2024-12-07 14:57:12] Transaction committed successfully
+[2024-12-07 14:57:12] Database connection closed
+[2024-12-07 15:12:47] Starting sensor data clear process
+[2024-12-07 15:12:47] Database connection established successfully
+[2024-12-07 15:12:47] Transaction begun
+[2024-12-07 15:12:47] Attempting to clear table: light_sensor_data
+[2024-12-07 15:12:47] Successfully cleared table: light_sensor_data
+[2024-12-07 15:12:47] Attempting to clear table: sensor_light_data
+[2024-12-07 15:12:47] Table does not exist: sensor_light_data
+[2024-12-07 15:12:47] Attempting to clear table: temperature_sensor_data
+[2024-12-07 15:12:47] Table does not exist: temperature_sensor_data
+[2024-12-07 15:12:47] Attempting to clear table: humidity_sensor_data
+[2024-12-07 15:12:47] Table does not exist: humidity_sensor_data
+[2024-12-07 15:12:47] Attempting to clear table: soil_moisture_data
+[2024-12-07 15:12:47] Successfully cleared table: soil_moisture_data
+[2024-12-07 15:12:47] Attempting to clear table: temperature_sensor_data_table
+[2024-12-07 15:12:47] Table does not exist: temperature_sensor_data_table
+[2024-12-07 15:12:47] Attempting to clear table: humidity_sensor_data_table
+[2024-12-07 15:12:47] Table does not exist: humidity_sensor_data_table
+[2024-12-07 15:12:47] Transaction committed successfully
+[2024-12-07 15:12:47] Database connection closed
+[2024-12-07 15:15:54] Starting sensor data clear process
+[2024-12-07 15:15:54] Database connection established successfully
+[2024-12-07 15:15:54] Transaction begun
+[2024-12-07 15:15:54] Attempting to clear table: light_sensor_data
+[2024-12-07 15:15:54] Successfully cleared table: light_sensor_data
+[2024-12-07 15:15:54] Attempting to clear table: sensor_light_data
+[2024-12-07 15:15:54] Table does not exist: sensor_light_data
+[2024-12-07 15:15:54] Attempting to clear table: temperature_sensor_data
+[2024-12-07 15:15:54] Table does not exist: temperature_sensor_data
+[2024-12-07 15:15:54] Attempting to clear table: humidity_sensor_data
+[2024-12-07 15:15:54] Table does not exist: humidity_sensor_data
+[2024-12-07 15:15:54] Attempting to clear table: soil_moisture_data
+[2024-12-07 15:15:54] Successfully cleared table: soil_moisture_data
+[2024-12-07 15:15:54] Attempting to clear table: temperature_sensor_data_table
+[2024-12-07 15:15:54] Table does not exist: temperature_sensor_data_table
+[2024-12-07 15:15:54] Attempting to clear table: humidity_sensor_data_table
+[2024-12-07 15:15:54] Table does not exist: humidity_sensor_data_table
+[2024-12-07 15:15:54] Transaction committed successfully
+[2024-12-07 15:15:54] Database connection closed
+[2024-12-07 15:18:09] Starting sensor data clear process
+[2024-12-07 15:18:09] Database connection established successfully
+[2024-12-07 15:18:09] Transaction begun
+[2024-12-07 15:18:09] Attempting to clear table: light_sensor_data
+[2024-12-07 15:18:09] Successfully cleared table: light_sensor_data
+[2024-12-07 15:18:09] Attempting to clear table: sensor_light_data
+[2024-12-07 15:18:09] Table does not exist: sensor_light_data
+[2024-12-07 15:18:09] Attempting to clear table: temperature_sensor_data
+[2024-12-07 15:18:09] Table does not exist: temperature_sensor_data
+[2024-12-07 15:18:09] Attempting to clear table: humidity_sensor_data
+[2024-12-07 15:18:09] Table does not exist: humidity_sensor_data
+[2024-12-07 15:18:09] Attempting to clear table: soil_moisture_data
+[2024-12-07 15:18:09] Successfully cleared table: soil_moisture_data
+[2024-12-07 15:18:09] Attempting to clear table: temperature_sensor_data_table
+[2024-12-07 15:18:09] Table does not exist: temperature_sensor_data_table
+[2024-12-07 15:18:09] Attempting to clear table: humidity_sensor_data_table
+[2024-12-07 15:18:09] Table does not exist: humidity_sensor_data_table
+[2024-12-07 15:18:09] Transaction committed successfully
+[2024-12-07 15:18:09] Database connection closed
+[2024-12-07 15:55:36] Starting sensor data clear process
+[2024-12-07 15:55:36] Database connection established successfully
+[2024-12-07 15:55:36] Transaction begun
+[2024-12-07 15:55:36] Attempting to clear table: light_sensor_data
+[2024-12-07 15:55:36] Successfully cleared table: light_sensor_data
+[2024-12-07 15:55:36] Attempting to clear table: sensor_light_data
+[2024-12-07 15:55:36] Table does not exist: sensor_light_data
+[2024-12-07 15:55:36] Attempting to clear table: temperature_sensor_data
+[2024-12-07 15:55:36] Table does not exist: temperature_sensor_data
+[2024-12-07 15:55:36] Attempting to clear table: humidity_sensor_data
+[2024-12-07 15:55:36] Table does not exist: humidity_sensor_data
+[2024-12-07 15:55:36] Attempting to clear table: soil_moisture_data
+[2024-12-07 15:55:36] Successfully cleared table: soil_moisture_data
+[2024-12-07 15:55:36] Attempting to clear table: temperature_sensor_data_table
+[2024-12-07 15:55:36] Table does not exist: temperature_sensor_data_table
+[2024-12-07 15:55:36] Attempting to clear table: humidity_sensor_data_table
+[2024-12-07 15:55:36] Table does not exist: humidity_sensor_data_table
+[2024-12-07 15:55:36] Transaction committed successfully
+[2024-12-07 15:55:36] Database connection closed
+[2024-12-07 18:51:02] Exception in clear_sensor_data.php: Table 'farmcs.user_activity_log' doesn't exist
+[2024-12-07 18:51:05] Exception in clear_sensor_data.php: Table 'farmcs.user_activity_log' doesn't exist
+[2024-12-07 18:51:08] Exception in clear_sensor_data.php: Table 'farmcs.user_activity_log' doesn't exist
+[2024-12-07 18:52:23] Unexpected error Table 'farmcs.user_activity_log' doesn't exist
+[2024-12-07 18:52:26] Unexpected error Table 'farmcs.user_activity_log' doesn't exist
+[2024-12-07 18:52:28] Unexpected error Table 'farmcs.user_activity_log' doesn't exist
+[2024-12-07 18:55:17] Unexpected error Table 'farmcs.user_activity_log' doesn't exist
+[2024-12-07 18:55:21] Unexpected error Table 'farmcs.user_activity_log' doesn't exist
+[2024-12-07 18:55:24] Unexpected error Table 'farmcs.user_activity_log' doesn't exist

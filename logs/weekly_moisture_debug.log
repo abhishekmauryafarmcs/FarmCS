@@ -1,0 +1,12 @@
+Weekly Moisture Data: Array
+(
+    [0] => Array
+        (
+            [date] => 2024-12-07
+            [average_moisture] => 39.73
+            [min_moisture] => 39
+            [max_moisture] => 41
+            [total_readings] => 205
+        )
+
+)

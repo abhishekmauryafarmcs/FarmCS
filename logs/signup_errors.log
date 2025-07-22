@@ -1,0 +1,48 @@
+[02-Dec-2024 19:49:01 Europe/Berlin] PHP Fatal error:  Uncaught Error: PDOStatement::bindParam(): Argument #2 ($var) cannot be passed by reference in C:\xampp\htdocs\FarmCS\handlers\signup_handler.php:122
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\FarmCS\handlers\signup_handler.php on line 122
+[02-Dec-2024 19:49:04 Europe/Berlin] PHP Fatal error:  Uncaught Error: PDOStatement::bindParam(): Argument #2 ($var) cannot be passed by reference in C:\xampp\htdocs\FarmCS\handlers\signup_handler.php:122
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\FarmCS\handlers\signup_handler.php on line 122
+[02-Dec-2024 19:49:14 Europe/Berlin] PHP Fatal error:  Uncaught Error: PDOStatement::bindParam(): Argument #2 ($var) cannot be passed by reference in C:\xampp\htdocs\FarmCS\handlers\signup_handler.php:122
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\FarmCS\handlers\signup_handler.php on line 122
+[02-Dec-2024 19:49:23 Europe/Berlin] PHP Fatal error:  Uncaught Error: PDOStatement::bindParam(): Argument #2 ($var) cannot be passed by reference in C:\xampp\htdocs\FarmCS\handlers\signup_handler.php:122
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\FarmCS\handlers\signup_handler.php on line 122
+[02-Dec-2024 19:50:19 Europe/Berlin] PHP Fatal error:  Uncaught Error: PDOStatement::bindParam(): Argument #2 ($var) cannot be passed by reference in C:\xampp\htdocs\FarmCS\handlers\signup_handler.php:122
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\FarmCS\handlers\signup_handler.php on line 122
+[02-Dec-2024 19:50:23 Europe/Berlin] PHP Fatal error:  Uncaught Error: PDOStatement::bindParam(): Argument #2 ($var) cannot be passed by reference in C:\xampp\htdocs\FarmCS\handlers\signup_handler.php:122
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\FarmCS\handlers\signup_handler.php on line 122
+[02-Dec-2024 19:50:37 Europe/Berlin] PHP Fatal error:  Uncaught Error: PDOStatement::bindParam(): Argument #2 ($var) cannot be passed by reference in C:\xampp\htdocs\FarmCS\handlers\signup_handler.php:122
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\FarmCS\handlers\signup_handler.php on line 122
+[02-Dec-2024 19:50:46 Europe/Berlin] PHP Fatal error:  Uncaught Error: PDOStatement::bindParam(): Argument #2 ($var) cannot be passed by reference in C:\xampp\htdocs\FarmCS\handlers\signup_handler.php:122
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\FarmCS\handlers\signup_handler.php on line 122
+[02-Dec-2024 19:54:15 Europe/Berlin] PHP Fatal error:  Uncaught Error: PDOStatement::bindParam(): Argument #2 ($var) cannot be passed by reference in C:\xampp\htdocs\FarmCS\handlers\signup_handler.php:122
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\FarmCS\handlers\signup_handler.php on line 122
+[02-Dec-2024 20:05:20 Europe/Berlin] PHP Fatal error:  Uncaught Error: PDOStatement::bindParam(): Argument #2 ($var) cannot be passed by reference in C:\xampp\htdocs\FarmCS\handlers\signup_handler.php:122
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\FarmCS\handlers\signup_handler.php on line 122
+[02-Dec-2024 20:05:23 Europe/Berlin] PHP Fatal error:  Uncaught Error: PDOStatement::bindParam(): Argument #2 ($var) cannot be passed by reference in C:\xampp\htdocs\FarmCS\handlers\signup_handler.php:122
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\FarmCS\handlers\signup_handler.php on line 122
+[02-Dec-2024 20:08:35 Europe/Berlin] PHP Fatal error:  Uncaught Error: PDOStatement::bindParam(): Argument #2 ($var) cannot be passed by reference in C:\xampp\htdocs\FarmCS\handlers\signup_handler.php:173
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\FarmCS\handlers\signup_handler.php on line 173

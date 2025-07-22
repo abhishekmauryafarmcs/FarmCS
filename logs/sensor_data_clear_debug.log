@@ -1,0 +1,24 @@
+[2024-12-07 18:57:03] [info] Attempting query: DELETE FROM sensor_data
+[2024-12-07 18:57:03] [info] Query successful. Affected rows: 32
+[2024-12-07 18:57:03] [error] {"success":false,"message":"Unexpected Error","details":{"exception":"Table 'farmcs.user_activity_log' doesn't exist","trace":"#0 C:\\xampp\\htdocs\\FarmCS\\handlers\\clear_sensor_data.php(109): mysqli->prepare('INSERT INTO use...')\n#1 {main}"}}
+[2024-12-07 18:57:08] [info] Attempting query: DELETE FROM sensor_data
+[2024-12-07 18:57:08] [info] Query successful. Affected rows: 34
+[2024-12-07 18:57:08] [error] {"success":false,"message":"Unexpected Error","details":{"exception":"Table 'farmcs.user_activity_log' doesn't exist","trace":"#0 C:\\xampp\\htdocs\\FarmCS\\handlers\\clear_sensor_data.php(109): mysqli->prepare('INSERT INTO use...')\n#1 {main}"}}
+[2024-12-07 18:57:10] [info] Attempting query: DELETE FROM sensor_data
+[2024-12-07 18:57:10] [info] Query successful. Affected rows: 35
+[2024-12-07 18:57:10] [error] {"success":false,"message":"Unexpected Error","details":{"exception":"Table 'farmcs.user_activity_log' doesn't exist","trace":"#0 C:\\xampp\\htdocs\\FarmCS\\handlers\\clear_sensor_data.php(109): mysqli->prepare('INSERT INTO use...')\n#1 {main}"}}
+[2024-12-07 18:57:13] [info] Attempting query: DELETE FROM sensor_data
+[2024-12-07 18:57:13] [info] Query successful. Affected rows: 35
+[2024-12-07 18:57:13] [error] {"success":false,"message":"Unexpected Error","details":{"exception":"Table 'farmcs.user_activity_log' doesn't exist","trace":"#0 C:\\xampp\\htdocs\\FarmCS\\handlers\\clear_sensor_data.php(109): mysqli->prepare('INSERT INTO use...')\n#1 {main}"}}
+[2024-12-07 18:57:16] [info] Attempting query: DELETE FROM sensor_data
+[2024-12-07 18:57:16] [info] Query successful. Affected rows: 36
+[2024-12-07 18:57:16] [error] {"success":false,"message":"Unexpected Error","details":{"exception":"Table 'farmcs.user_activity_log' doesn't exist","trace":"#0 C:\\xampp\\htdocs\\FarmCS\\handlers\\clear_sensor_data.php(109): mysqli->prepare('INSERT INTO use...')\n#1 {main}"}}
+[2024-12-07 18:57:16] [info] Attempting query: DELETE FROM sensor_data
+[2024-12-07 18:57:16] [info] Query successful. Affected rows: 36
+[2024-12-07 18:57:16] [error] {"success":false,"message":"Unexpected Error","details":{"exception":"Table 'farmcs.user_activity_log' doesn't exist","trace":"#0 C:\\xampp\\htdocs\\FarmCS\\handlers\\clear_sensor_data.php(109): mysqli->prepare('INSERT INTO use...')\n#1 {main}"}}
+[2024-12-07 18:57:20] [info] Attempting query: DELETE FROM sensor_data
+[2024-12-07 18:57:20] [info] Query successful. Affected rows: 38
+[2024-12-07 18:57:20] [error] {"success":false,"message":"Unexpected Error","details":{"exception":"Table 'farmcs.user_activity_log' doesn't exist","trace":"#0 C:\\xampp\\htdocs\\FarmCS\\handlers\\clear_sensor_data.php(109): mysqli->prepare('INSERT INTO use...')\n#1 {main}"}}
+[2024-12-07 18:58:44] [info] Attempting query: DELETE FROM sensor_data
+[2024-12-07 18:58:44] [info] Query successful. Affected rows: 65
+[2024-12-07 18:58:44] [error] {"success":false,"message":"Unexpected Error","details":{"exception":"Table 'farmcs.user_activity_log' doesn't exist","trace":"#0 C:\\xampp\\htdocs\\FarmCS\\handlers\\clear_sensor_data.php(109): mysqli->prepare('INSERT INTO use...')\n#1 {main}"}}

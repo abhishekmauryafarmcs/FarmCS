@@ -1,0 +1,220 @@
+[2024-12-07 19:06:13] Clearing sensor data for user ID: 5
+[2024-12-07 19:06:13] Deleted 0 rows with query: DELETE FROM sensor_data WHERE user_id = ?
+[2024-12-07 19:06:13] Deleted 0 rows with query: TRUNCATE TABLE sensor_data
+[2024-12-07 19:06:13] Deleted 0 rows with query: DELETE FROM sensor_data
+[2024-12-07 19:06:13] Remaining rows after deletion: 0
+[2024-12-07 19:06:25] Clearing sensor data for user ID: 5
+[2024-12-07 19:06:25] Deleted 0 rows with query: DELETE FROM sensor_data WHERE user_id = ?
+[2024-12-07 19:06:25] Deleted 0 rows with query: TRUNCATE TABLE sensor_data
+[2024-12-07 19:06:25] Deleted 0 rows with query: DELETE FROM sensor_data
+[2024-12-07 19:06:25] Remaining rows after deletion: 0
+[2024-12-07 19:07:16] Clearing sensor data for user ID: 5
+[2024-12-07 19:07:16] Deleted 0 rows with query: DELETE FROM sensor_data WHERE user_id = ?
+[2024-12-07 19:07:16] Deleted 0 rows with query: TRUNCATE TABLE sensor_data
+[2024-12-07 19:07:16] Deleted 0 rows with query: DELETE FROM sensor_data
+[2024-12-07 19:07:16] Remaining rows after deletion: 0
+[2024-12-07 19:07:23] Clearing sensor data for user ID: 5
+[2024-12-07 19:07:23] Deleted 0 rows with query: DELETE FROM sensor_data WHERE user_id = ?
+[2024-12-07 19:07:23] Deleted 0 rows with query: TRUNCATE TABLE sensor_data
+[2024-12-07 19:07:23] Deleted 0 rows with query: DELETE FROM sensor_data
+[2024-12-07 19:07:23] Remaining rows after deletion: 0
+[2024-12-07 19:07:26] Clearing sensor data for user ID: 5
+[2024-12-07 19:07:26] Deleted 0 rows with query: DELETE FROM sensor_data WHERE user_id = ?
+[2024-12-07 19:07:26] Deleted 0 rows with query: TRUNCATE TABLE sensor_data
+[2024-12-07 19:07:26] Deleted 0 rows with query: DELETE FROM sensor_data
+[2024-12-07 19:07:26] Remaining rows after deletion: 0
+[2024-12-07 19:07:31] Clearing sensor data for user ID: 5
+[2024-12-07 19:07:31] Deleted 0 rows with query: DELETE FROM sensor_data WHERE user_id = ?
+[2024-12-07 19:07:31] Deleted 0 rows with query: TRUNCATE TABLE sensor_data
+[2024-12-07 19:07:31] Deleted 0 rows with query: DELETE FROM sensor_data
+[2024-12-07 19:07:31] Remaining rows after deletion: 0
+[2024-12-07 19:08:55] Clearing sensor data for user ID: 5
+[2024-12-07 19:08:55] Deleted 0 rows with query: DELETE FROM sensor_data WHERE user_id = ?
+[2024-12-07 19:08:55] Deleted 0 rows with query: TRUNCATE TABLE sensor_data
+[2024-12-07 19:08:55] Deleted 0 rows with query: DELETE FROM sensor_data
+[2024-12-07 19:08:55] Rows before deletion: 27, Rows after deletion: 0
+[2024-12-07 19:09:00] Clearing sensor data for user ID: 5
+[2024-12-07 19:09:00] Deleted 0 rows with query: DELETE FROM sensor_data WHERE user_id = ?
+[2024-12-07 19:09:00] Deleted 0 rows with query: TRUNCATE TABLE sensor_data
+[2024-12-07 19:09:00] Deleted 0 rows with query: DELETE FROM sensor_data
+[2024-12-07 19:09:00] Rows before deletion: 2, Rows after deletion: 0
+[2024-12-07 19:10:24] Clearing sensor data for user ID: 5
+[2024-12-07 19:10:24] Total rows before deletion: 27
+[2024-12-07 19:10:24] Deleted 0 rows with query: DELETE FROM sensor_data WHERE user_id = ?
+[2024-12-07 19:10:24] Deleted 27 rows with query: DELETE FROM sensor_data
+[2024-12-07 19:10:24] Rows after deletion: 0
+[2024-12-07 19:10:28] Clearing sensor data for user ID: 5
+[2024-12-07 19:10:28] Total rows before deletion: 1
+[2024-12-07 19:10:28] Deleted 0 rows with query: DELETE FROM sensor_data WHERE user_id = ?
+[2024-12-07 19:10:28] Deleted 1 rows with query: DELETE FROM sensor_data
+[2024-12-07 19:10:28] Rows after deletion: 0
+[2024-12-07 19:10:53] Clearing sensor data for user ID: 5
+[2024-12-07 19:10:53] Deleted 0 rows with query: DELETE FROM sensor_data WHERE user_id = ?
+[2024-12-07 19:10:53] Deleted 0 rows with query: TRUNCATE TABLE sensor_data
+[2024-12-07 19:10:53] Deleted 0 rows with query: DELETE FROM sensor_data
+[2024-12-07 19:10:53] Rows before deletion: 9, Rows after deletion: 0
+[2024-12-07 19:11:28] Clearing sensor data for user ID: 5
+[2024-12-07 19:11:28] Deleted 0 rows with query: DELETE FROM sensor_data WHERE user_id = ?
+[2024-12-07 19:11:28] Deleted 0 rows with query: TRUNCATE TABLE sensor_data
+[2024-12-07 19:11:28] Deleted 0 rows with query: DELETE FROM sensor_data
+[2024-12-07 19:11:28] Rows before deletion: 11, Rows after deletion: 0
+[2024-12-07 19:11:33] Clearing sensor data for user ID: 5
+[2024-12-07 19:11:33] Deleted 0 rows with query: DELETE FROM sensor_data WHERE user_id = ?
+[2024-12-07 19:11:33] Deleted 0 rows with query: TRUNCATE TABLE sensor_data
+[2024-12-07 19:11:33] Deleted 0 rows with query: DELETE FROM sensor_data
+[2024-12-07 19:11:33] Rows before deletion: 1, Rows after deletion: 0
+[2024-12-07 19:11:42] Clearing sensor data for user ID: 5
+[2024-12-07 19:11:42] Deleted 0 rows with query: DELETE FROM sensor_data WHERE user_id = ?
+[2024-12-07 19:11:42] Deleted 0 rows with query: TRUNCATE TABLE sensor_data
+[2024-12-07 19:11:42] Deleted 0 rows with query: DELETE FROM sensor_data
+[2024-12-07 19:11:42] Rows before deletion: 3, Rows after deletion: 0
+[2024-12-07 19:13:08] Clearing sensor data for user ID: 5
+[2024-12-07 19:13:08] Deleted 0 rows with query: DELETE FROM sensor_data WHERE user_id = ?
+[2024-12-07 19:13:08] Deleted 0 rows with query: TRUNCATE TABLE sensor_data
+[2024-12-07 19:13:08] Deleted 0 rows with query: DELETE FROM sensor_data
+[2024-12-07 19:13:08] Rows before deletion: 28, Rows after deletion: 0
+[2024-12-07 19:15:21] Clearing sensor data for user ID: 5
+[2024-12-07 19:15:21] Deleted 0 rows with query: DELETE FROM sensor_data WHERE user_id = ?
+[2024-12-07 19:15:21] Deleted 0 rows with query: TRUNCATE TABLE sensor_data
+[2024-12-07 19:15:21] Deleted 0 rows with query: DELETE FROM sensor_data
+[2024-12-07 19:15:21] Rows before deletion: 43, Rows after deletion: 0
+[2024-12-07 19:16:03] Clearing sensor data for user ID: 5
+[2024-12-07 19:16:03] Deleted 0 rows with query: DELETE FROM sensor_data WHERE user_id = ?
+[2024-12-07 19:16:03] Deleted 0 rows with query: TRUNCATE TABLE sensor_data
+[2024-12-07 19:16:03] Deleted 0 rows with query: DELETE FROM sensor_data
+[2024-12-07 19:16:03] Rows before deletion: 13, Rows after deletion: 0
+[2024-12-07 19:33:32] Clearing sensor data for user ID: 5
+[2024-12-07 19:33:32] Deleted 0 rows with query: DELETE FROM sensor_data WHERE user_id = ?
+[2024-12-07 19:33:32] Deleted 0 rows with query: TRUNCATE TABLE sensor_data
+[2024-12-07 19:33:32] Deleted 0 rows with query: DELETE FROM sensor_data
+[2024-12-07 19:33:32] Rows before deletion: 337, Rows after deletion: 0
+[2024-12-07 19:33:35] Clearing sensor data for user ID: 5
+[2024-12-07 19:33:35] Deleted 0 rows with query: DELETE FROM sensor_data WHERE user_id = ?
+[2024-12-07 19:33:35] Deleted 0 rows with query: TRUNCATE TABLE sensor_data
+[2024-12-07 19:33:35] Deleted 0 rows with query: DELETE FROM sensor_data
+[2024-12-07 19:33:35] Rows before deletion: 1, Rows after deletion: 0
+[2024-12-07 20:04:12] Clearing sensor data for user ID: 5
+[2024-12-07 20:04:12] Deleted 0 rows with query: DELETE FROM sensor_data WHERE user_id = ?
+[2024-12-07 20:04:12] Deleted 0 rows with query: TRUNCATE TABLE sensor_data
+[2024-12-07 20:04:12] Deleted 0 rows with query: DELETE FROM sensor_data
+[2024-12-07 20:04:12] Rows before deletion: 579, Rows after deletion: 0
+[2024-12-08 03:09:11] Clearing sensor data for user ID: 5
+[2024-12-08 03:09:11] Deleted 0 rows with query: DELETE FROM sensor_data WHERE user_id = ?
+[2024-12-08 03:09:11] Deleted 0 rows with query: TRUNCATE TABLE sensor_data
+[2024-12-08 03:09:11] Deleted 0 rows with query: DELETE FROM sensor_data
+[2024-12-08 03:09:11] Rows before deletion: 590, Rows after deletion: 0
+[2024-12-08 07:10:50] Clearing sensor data for user ID: 9
+[2024-12-08 07:10:50] Deleted 0 rows with query: DELETE FROM sensor_data WHERE user_id = ?
+[2024-12-08 07:10:50] Deleted 0 rows with query: TRUNCATE TABLE sensor_data
+[2024-12-08 07:10:50] Deleted 0 rows with query: DELETE FROM sensor_data
+[2024-12-08 07:10:50] Rows before deletion: 87, Rows after deletion: 0
+[2024-12-08 13:43:07] Clearing sensor data for user ID: 10
+[2024-12-08 13:43:07] Deleted 0 rows with query: DELETE FROM sensor_data WHERE user_id = ?
+[2024-12-08 13:43:07] Deleted 0 rows with query: TRUNCATE TABLE sensor_data
+[2024-12-08 13:43:07] Deleted 0 rows with query: DELETE FROM sensor_data
+[2024-12-08 13:43:07] Rows before deletion: 422, Rows after deletion: 0
+[2024-12-08 13:46:05] Clearing sensor data for user ID: 10
+[2024-12-08 13:46:05] Deleted 0 rows with query: DELETE FROM sensor_data WHERE user_id = ?
+[2024-12-08 13:46:05] Deleted 0 rows with query: TRUNCATE TABLE sensor_data
+[2024-12-08 13:46:05] Deleted 0 rows with query: DELETE FROM sensor_data
+[2024-12-08 13:46:05] Rows before deletion: 47, Rows after deletion: 0
+[2024-12-08 16:04:03] Clearing sensor data for user ID: 11
+[2024-12-08 16:04:03] Deleted 0 rows with query: DELETE FROM sensor_data WHERE user_id = ?
+[2024-12-08 16:04:03] Deleted 0 rows with query: TRUNCATE TABLE sensor_data
+[2024-12-08 16:04:03] Deleted 0 rows with query: DELETE FROM sensor_data
+[2024-12-08 16:04:03] Rows before deletion: 28, Rows after deletion: 0
+[2024-12-08 16:16:45] Clearing sensor data for user ID: 11
+[2024-12-08 16:16:45] Deleted 0 rows with query: DELETE FROM sensor_data WHERE user_id = ?
+[2024-12-08 16:16:45] Deleted 0 rows with query: TRUNCATE TABLE sensor_data
+[2024-12-08 16:16:45] Deleted 0 rows with query: DELETE FROM sensor_data
+[2024-12-08 16:16:45] Rows before deletion: 231, Rows after deletion: 0
+[2024-12-08 16:21:04] Clearing sensor data for user ID: 11
+[2024-12-08 16:21:04] Deleted 0 rows with query: DELETE FROM sensor_data WHERE user_id = ?
+[2024-12-08 16:21:04] Deleted 0 rows with query: TRUNCATE TABLE sensor_data
+[2024-12-08 16:21:04] Deleted 0 rows with query: DELETE FROM sensor_data
+[2024-12-08 16:21:04] Rows before deletion: 78, Rows after deletion: 0
+[2024-12-08 16:21:54] Clearing sensor data for user ID: 11
+[2024-12-08 16:21:54] Deleted 0 rows with query: DELETE FROM sensor_data WHERE user_id = ?
+[2024-12-08 16:21:54] Deleted 0 rows with query: TRUNCATE TABLE sensor_data
+[2024-12-08 16:21:54] Deleted 0 rows with query: DELETE FROM sensor_data
+[2024-12-08 16:21:54] Rows before deletion: 16, Rows after deletion: 0
+[2024-12-08 16:45:36] Clearing sensor data for user ID: 11
+[2024-12-08 16:45:36] Deleted 0 rows with query: DELETE FROM sensor_data WHERE user_id = ?
+[2024-12-08 16:45:36] Deleted 0 rows with query: TRUNCATE TABLE sensor_data
+[2024-12-08 16:45:36] Deleted 0 rows with query: DELETE FROM sensor_data
+[2024-12-08 16:45:36] Rows before deletion: 430, Rows after deletion: 0
+[2024-12-08 17:23:56] Clearing sensor data for user ID: 11
+[2024-12-08 17:23:56] Deleted 0 rows with query: DELETE FROM sensor_data WHERE user_id = ?
+[2024-12-08 17:23:56] Deleted 0 rows with query: TRUNCATE TABLE sensor_data
+[2024-12-08 17:23:56] Deleted 0 rows with query: DELETE FROM sensor_data
+[2024-12-08 17:23:56] Rows before deletion: 689, Rows after deletion: 0
+[2024-12-08 17:40:23] Clearing sensor data for user ID: 11
+[2024-12-08 17:40:23] Deleted 0 rows with query: DELETE FROM sensor_data WHERE user_id = ?
+[2024-12-08 17:40:23] Deleted 0 rows with query: TRUNCATE TABLE sensor_data
+[2024-12-08 17:40:23] Deleted 0 rows with query: DELETE FROM sensor_data
+[2024-12-08 17:40:23] Rows before deletion: 282, Rows after deletion: 0
+[2024-12-08 18:09:06] Clearing sensor data for user ID: 11
+[2024-12-08 18:09:06] Deleted 0 rows with query: DELETE FROM sensor_data WHERE user_id = ?
+[2024-12-08 18:09:06] Deleted 0 rows with query: TRUNCATE TABLE sensor_data
+[2024-12-08 18:09:06] Deleted 0 rows with query: DELETE FROM sensor_data
+[2024-12-08 18:09:06] Rows before deletion: 508, Rows after deletion: 0
+[2024-12-08 18:32:00] Clearing sensor data for user ID: 11
+[2024-12-08 18:32:00] Deleted 0 rows with query: DELETE FROM sensor_data WHERE user_id = ?
+[2024-12-08 18:32:00] Deleted 0 rows with query: TRUNCATE TABLE sensor_data
+[2024-12-08 18:32:00] Deleted 0 rows with query: DELETE FROM sensor_data
+[2024-12-08 18:32:00] Rows before deletion: 401, Rows after deletion: 0
+[2024-12-08 18:32:07] Clearing sensor data for user ID: 11
+[2024-12-08 18:32:07] Deleted 0 rows with query: DELETE FROM sensor_data WHERE user_id = ?
+[2024-12-08 18:32:07] Deleted 0 rows with query: TRUNCATE TABLE sensor_data
+[2024-12-08 18:32:07] Deleted 0 rows with query: DELETE FROM sensor_data
+[2024-12-08 18:32:07] Rows before deletion: 0, Rows after deletion: 0
+[2024-12-09 07:44:20] Clearing sensor data for user ID: 12
+[2024-12-09 07:44:20] Deleted 0 rows with query: DELETE FROM sensor_data WHERE user_id = ?
+[2024-12-09 07:44:20] Deleted 0 rows with query: TRUNCATE TABLE sensor_data
+[2024-12-09 07:44:20] Deleted 0 rows with query: DELETE FROM sensor_data
+[2024-12-09 07:44:20] Rows before deletion: 7, Rows after deletion: 0
+[2024-12-09 08:33:27] Clearing sensor data for user ID: 13
+[2024-12-09 08:33:27] Deleted 0 rows with query: DELETE FROM sensor_data WHERE user_id = ?
+[2024-12-09 08:33:27] Deleted 0 rows with query: TRUNCATE TABLE sensor_data
+[2024-12-09 08:33:27] Deleted 0 rows with query: DELETE FROM sensor_data
+[2024-12-09 08:33:27] Rows before deletion: 808, Rows after deletion: 0
+[2024-12-09 09:09:18] Clearing sensor data for user ID: 13
+[2024-12-09 09:09:18] Deleted 0 rows with query: DELETE FROM sensor_data WHERE user_id = ?
+[2024-12-09 09:09:18] Deleted 0 rows with query: TRUNCATE TABLE sensor_data
+[2024-12-09 09:09:18] Deleted 0 rows with query: DELETE FROM sensor_data
+[2024-12-09 09:09:18] Rows before deletion: 602, Rows after deletion: 0
+[2024-12-09 10:27:43] Clearing sensor data for user ID: 13
+[2024-12-09 10:27:43] Deleted 0 rows with query: DELETE FROM sensor_data WHERE user_id = ?
+[2024-12-09 10:27:43] Deleted 0 rows with query: TRUNCATE TABLE sensor_data
+[2024-12-09 10:27:43] Deleted 0 rows with query: DELETE FROM sensor_data
+[2024-12-09 10:27:43] Rows before deletion: 401, Rows after deletion: 0
+[2024-12-09 10:39:08] Clearing sensor data for user ID: 13
+[2024-12-09 10:39:08] Deleted 0 rows with query: DELETE FROM sensor_data WHERE user_id = ?
+[2024-12-09 10:39:08] Deleted 0 rows with query: TRUNCATE TABLE sensor_data
+[2024-12-09 10:39:08] Deleted 0 rows with query: DELETE FROM sensor_data
+[2024-12-09 10:39:08] Rows before deletion: 207, Rows after deletion: 0
+[2024-12-09 15:46:59] Clearing sensor data for user ID: 12
+[2024-12-09 15:46:59] Deleted 0 rows with query: DELETE FROM sensor_data WHERE user_id = ?
+[2024-12-09 15:46:59] Deleted 0 rows with query: TRUNCATE TABLE sensor_data
+[2024-12-09 15:46:59] Deleted 0 rows with query: DELETE FROM sensor_data
+[2024-12-09 15:46:59] Rows before deletion: 613, Rows after deletion: 0
+[2024-12-09 17:43:04] Clearing sensor data for user ID: 13
+[2024-12-09 17:43:04] Deleted 0 rows with query: DELETE FROM sensor_data WHERE user_id = ?
+[2024-12-09 17:43:04] Deleted 0 rows with query: TRUNCATE TABLE sensor_data
+[2024-12-09 17:43:04] Deleted 0 rows with query: DELETE FROM sensor_data
+[2024-12-09 17:43:04] Rows before deletion: 446, Rows after deletion: 0
+[2025-07-19 10:02:12] Clearing sensor data for user ID: 4
+[2025-07-19 10:02:12] Deleted 0 rows with query: DELETE FROM sensor_data WHERE user_id = ?
+[2025-07-19 10:02:12] Deleted 0 rows with query: TRUNCATE TABLE sensor_data
+[2025-07-19 10:02:12] Deleted 0 rows with query: DELETE FROM sensor_data
+[2025-07-19 10:02:12] Rows before deletion: 4, Rows after deletion: 0
+[2025-07-19 11:36:49] Clearing sensor data for user ID: 4
+[2025-07-19 11:36:49] Deleted 0 rows with query: DELETE FROM sensor_data WHERE user_id = ?
+[2025-07-19 11:36:49] Deleted 0 rows with query: TRUNCATE TABLE sensor_data
+[2025-07-19 11:36:49] Deleted 0 rows with query: DELETE FROM sensor_data
+[2025-07-19 11:36:49] Rows before deletion: 1, Rows after deletion: 0
+[2025-07-21 12:46:46] Clearing sensor data for user ID: 4
+[2025-07-21 12:46:46] Deleted 0 rows with query: DELETE FROM sensor_data WHERE user_id = ?
+[2025-07-21 12:46:46] Deleted 0 rows with query: TRUNCATE TABLE sensor_data
+[2025-07-21 12:46:46] Deleted 0 rows with query: DELETE FROM sensor_data
+[2025-07-21 12:46:46] Rows before deletion: 12, Rows after deletion: 0

@@ -1,0 +1,23 @@
+HTML to PHP Conversion Log - 2024-12-05 20:02:52
+
+Converted Files:
+HTML: c:/xampp/htdocs/FarmCS\404.html -> PHP: c:/xampp/htdocs/FarmCS\404.php
+HTML: c:/xampp/htdocs/FarmCS\about.html -> PHP: c:/xampp/htdocs/FarmCS\about.php
+HTML: c:/xampp/htdocs/FarmCS\admin\admin_login.html -> PHP: c:/xampp/htdocs/FarmCS\admin\admin_login.php
+HTML: c:/xampp/htdocs/FarmCS\contact.html -> PHP: c:/xampp/htdocs/FarmCS\contact.php
+HTML: c:/xampp/htdocs/FarmCS\cropdata.html -> PHP: c:/xampp/htdocs/FarmCS\cropdata.php
+HTML: c:/xampp/htdocs/FarmCS\index.html -> PHP: c:/xampp/htdocs/FarmCS\index.php
+HTML: c:/xampp/htdocs/FarmCS\learn-more.html -> PHP: c:/xampp/htdocs/FarmCS\learn-more.php
+HTML: c:/xampp/htdocs/FarmCS\login.html -> PHP: c:/xampp/htdocs/FarmCS\login.php
+HTML: c:/xampp/htdocs/FarmCS\signup.html -> PHP: c:/xampp/htdocs/FarmCS\signup.php
+
+Removed HTML Files:
+c:/xampp/htdocs/FarmCS\404.html
+c:/xampp/htdocs/FarmCS\about.html
+c:/xampp/htdocs/FarmCS\admin\admin_login.html
+c:/xampp/htdocs/FarmCS\contact.html
+c:/xampp/htdocs/FarmCS\cropdata.html
+c:/xampp/htdocs/FarmCS\index.html
+c:/xampp/htdocs/FarmCS\learn-more.html
+c:/xampp/htdocs/FarmCS\login.html
+c:/xampp/htdocs/FarmCS\signup.html

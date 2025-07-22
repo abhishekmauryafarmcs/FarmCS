@@ -1,0 +1,915 @@
+{
+    "hi": {
+        "nav": {
+            "home": "घर",
+            "features": "विशेषताएँ",
+            "cropdata": "फसल डेटा",
+            "learn-more": "और अधिक जानें",
+            "about": "हमारे बारे में",
+            "contact": "संपर्क",
+            "login": "लॉग इन करें",
+            "signup": "साइन अप करें"
+        },
+        "hero": {
+            "title": "स्मार्ट सिंचाई समाधानों से भारतीय किसानों को सशक्त बनाना",
+            "subtitle": "भारत की पहली स्मार्ट स्प्रिंकलर प्रणाली से जल बचाएं, उपज बढ़ाएं और कृषि में नवाचार अपनाएं।",
+            "cta_button": "और अधिक जानें"
+        },
+        "features": {
+            "title": "आधुनिक खेती के लिए स्मार्ट सुविधाएँ",
+            "subtitle": "जानें कि फार्मसीएस ने सिंचाई में कैसे क्रांति ला दी",
+            "real-time-data": "वास्तविक समय फ़ील्ड डेटा",
+            "real-time-data-description": "वास्तविक समय में मिट्टी की नमी, तापमान और आर्द्रता की निगरानी करें",
+            "smart-fertilization": "स्मार्ट निषेचन",
+            "smart-fertilization-description": "बुद्धिमान उर्वरीकरण नियंत्रण के साथ पोषक तत्व वितरण को अनुकूलित करें",
+            "fire-detection": "आग का पता लगाना",
+            "fire-detection-description": "आग की रोकथाम और नियंत्रण के लिए पूर्व चेतावनी प्रणाली",
+            "bird-deterrence": "पक्षी निवारण",
+            "bird-deterrence-description": "स्मार्ट पक्षी नियंत्रण प्रणाली से अपनी फसलों की सुरक्षा करें"
+        },
+        "metrics": {
+            "water-saved": "0",
+            "water-saved-description": "लाखों लीटर पानी की बचत",
+            "farmers-count": "0",
+            "farmers-count-description": "फार्मसीएस का उपयोग करने वाले किसान",
+            "acres-covered": "0",
+            "acres-covered-description": "कवर किए गए एकड़"
+        },
+        "testimonials": {
+            "title": "सफलता की कहानियाँ",
+            "subtitle": "फार्मसीएस के साथ अपनी सिंचाई को बदलने वाले किसानों की बात सुनें",
+            "farmer1-name": "Rajesh Kumar",
+            "farmer1-testimonial": "\"FarmCS helped me reduce water usage by 40% while improving my crop yield. The real-time monitoring is a game-changer!\"",
+            "farmer2-name": "Priya Patel",
+            "farmer2-testimonial": "\"The smart fertilization feature has made a huge difference in my farm's productivity. My profits have increased significantly.\"",
+            "farmer3-name": "सुरेश सिंह",
+            "farmer3-testimonial": "\"The fire detection system saved my wheat field last summer. FarmCS is truly a revolutionary product for Indian farmers.\""
+        },
+        "footer": {
+            "description": "स्मार्ट सिंचाई और IoT तकनीक के माध्यम से कृषि में क्रांति लाना। खेती को स्मार्ट, टिकाऊ और अधिक कुशल बनाना।",
+            "features": {
+                "title": "Our Features",
+                "smart-irrigation": "Smart Irrigation",
+                "soil-monitoring": "Soil Monitoring",
+                "weather-integration": "Weather Integration",
+                "mobile-control": "Mobile Control",
+                "data-analytics": "Data Analytics"
+            },
+            "resources": {
+                "title": "Resources",
+                "documentation": "Documentation",
+                "support-center": "Support Center",
+                "installation-guide": "Installation Guide",
+                "system-updates": "System Updates",
+                "user-manual": "User Manual"
+            },
+            "contact": {
+                "title": "Contact & Legal",
+                "contact-us": "Contact Us",
+                "privacy-policy": "Privacy Policy",
+                "terms-of-service": "Terms of Service",
+                "warranty-info": "Warranty Info",
+                "support-policy": "Support Policy"
+            },
+            "social": {
+                "title": "Connect With Us",
+                "facebook": "Facebook",
+                "twitter": "Twitter",
+                "linkedin": "LinkedIn",
+                "instagram": "Instagram"
+            },
+            "copyright": "2023 फार्मसीएस। सभी अधिकार सुरक्षित।",
+            "made-with-love": "भारत में निर्मित"
+        }
+    },
+    "bn": {
+        "nav": {
+            "home": "বাড়ি",
+            "features": "বৈশিষ্ট্য",
+            "cropdata": "ক্রপ ডেটা",
+            "learn-more": "আরও জানুন",
+            "about": "আমাদের সম্পর্কে",
+            "contact": "যোগাযোগ",
+            "login": "লগইন করুন",
+            "signup": "সাইন আপ করুন"
+        },
+        "hero": {
+            "title": "স্মার্ট সেচ সমাধানের মাধ্যমে ভারতীয় কৃষকদের ক্ষমতায়ন করা",
+            "subtitle": "ভারতের প্রথম স্মার্ট স্প্রিংকলার সিস্টেমের মাধ্যমে জল সংরক্ষণ করুন, ফলন উন্নত করুন এবং কৃষিতে উদ্ভাবন গ্রহণ করুন।",
+            "cta_button": "আরও জানুন"
+        },
+        "features": {
+            "title": "আধুনিক চাষের জন্য স্মার্ট বৈশিষ্ট্য",
+            "subtitle": "ফার্মসিএস কীভাবে সেচের ক্ষেত্রে বিপ্লব ঘটায় তা আবিষ্কার করুন",
+            "real-time-data": "রিয়েল-টাইম ফিল্ড ডেটা",
+            "real-time-data-description": "বাস্তব সময়ে মাটির আর্দ্রতা, তাপমাত্রা এবং আর্দ্রতা নিরীক্ষণ করুন",
+            "smart-fertilization": "স্মার্ট ফার্টিলাইজেশন",
+            "smart-fertilization-description": "বুদ্ধিমান ফার্টিগেশন নিয়ন্ত্রণের সাথে পুষ্টি সরবরাহকে অপ্টিমাইজ করুন",
+            "fire-detection": "ফায়ার ডিটেকশন",
+            "fire-detection-description": "আগুন প্রতিরোধ এবং নিয়ন্ত্রণের জন্য প্রাথমিক সতর্কতা ব্যবস্থা",
+            "bird-deterrence": "পাখি প্রতিরোধ",
+            "bird-deterrence-description": "স্মার্ট বার্ড কন্ট্রোল সিস্টেমের সাথে আপনার ফসল রক্ষা করুন"
+        },
+        "metrics": {
+            "water-saved": "0",
+            "water-saved-description": "মিলিয়ন লিটার পানি সংরক্ষণ করা হয়েছে",
+            "farmers-count": "0",
+            "farmers-count-description": "ফার্মসিএস ব্যবহার করে কৃষক",
+            "acres-covered": "0",
+            "acres-covered-description": "একর আচ্ছাদিত"
+        },
+        "testimonials": {
+            "title": "সাফল্যের গল্প",
+            "subtitle": "কৃষকদের কাছ থেকে শুনুন যারা FarmCS এর সাথে তাদের সেচ পরিবর্তন করেছেন",
+            "farmer1-name": "রাজেশ কুমার",
+            "farmer1-testimonial": "\"FarmCS helped me reduce water usage by 40% while improving my crop yield. The real-time monitoring is a game-changer!\"",
+            "farmer2-name": "প্রিয়া প্যাটেল",
+            "farmer2-testimonial": "\"The smart fertilization feature has made a huge difference in my farm's productivity. My profits have increased significantly.\"",
+            "farmer3-name": "সুরেশ সিং",
+            "farmer3-testimonial": "\"The fire detection system saved my wheat field last summer. FarmCS is truly a revolutionary product for Indian farmers.\""
+        },
+        "footer": {
+            "description": "স্মার্ট সেচ এবং আইওটি প্রযুক্তির মাধ্যমে কৃষিতে বিপ্লব ঘটানো। কৃষিকে আরও স্মার্ট, টেকসই এবং আরও দক্ষ করে তোলা।",
+            "features": {
+                "title": "Our Features",
+                "smart-irrigation": "Smart Irrigation",
+                "soil-monitoring": "Soil Monitoring",
+                "weather-integration": "Weather Integration",
+                "mobile-control": "Mobile Control",
+                "data-analytics": "Data Analytics"
+            },
+            "resources": {
+                "title": "Resources",
+                "documentation": "Documentation",
+                "support-center": "Support Center",
+                "installation-guide": "Installation Guide",
+                "system-updates": "System Updates",
+                "user-manual": "User Manual"
+            },
+            "contact": {
+                "title": "Contact & Legal",
+                "contact-us": "Contact Us",
+                "privacy-policy": "Privacy Policy",
+                "terms-of-service": "Terms of Service",
+                "warranty-info": "Warranty Info",
+                "support-policy": "Support Policy"
+            },
+            "social": {
+                "title": "Connect With Us",
+                "facebook": "Facebook",
+                "twitter": "Twitter",
+                "linkedin": "LinkedIn",
+                "instagram": "Instagram"
+            },
+            "copyright": "2023 ফার্মসিএস। সর্বস্বত্ব সংরক্ষিত",
+            "made-with-love": "ভারতে দিয়ে তৈরি"
+        }
+    },
+    "te": {
+        "nav": {
+            "home": "హోమ్",
+            "features": "ఫీచర్లు",
+            "cropdata": "క్రాప్ డేటా",
+            "learn-more": "మరింత తెలుసుకోండి",
+            "about": "మా గురించి",
+            "contact": "సంప్రదించండి",
+            "login": "లాగిన్ చేయండి",
+            "signup": "సైన్ అప్ చేయండి"
+        },
+        "hero": {
+            "title": "స్మార్ట్ ఇరిగేషన్ సొల్యూషన్స్‌తో భారతీయ రైతులకు సాధికారత కల్పించడం",
+            "subtitle": "భారతదేశం యొక్క మొట్టమొదటి స్మార్ట్ స్ప్రింక్లర్ సిస్టమ్‌తో నీటిని ఆదా చేయండి, దిగుబడిని మెరుగుపరచండి మరియు వ్యవసాయంలో ఆవిష్కరణలను స్వీకరించండి.",
+            "cta_button": "మరింత తెలుసుకోండి"
+        },
+        "features": {
+            "title": "ఆధునిక వ్యవసాయం కోసం స్మార్ట్ ఫీచర్లు",
+            "subtitle": "FarmCS నీటిపారుదలని ఎలా విప్లవాత్మకంగా మారుస్తుందో కనుగొనండి",
+            "real-time-data": "రియల్ టైమ్ ఫీల్డ్ డేటా",
+            "real-time-data-description": "నిజ సమయంలో నేల తేమ, ఉష్ణోగ్రత మరియు తేమను పర్యవేక్షించండి",
+            "smart-fertilization": "స్మార్ట్ ఫలదీకరణం",
+            "smart-fertilization-description": "తెలివైన ఫలదీకరణ నియంత్రణతో పోషకాల పంపిణీని ఆప్టిమైజ్ చేయండి",
+            "fire-detection": "ఫైర్ డిటెక్షన్",
+            "fire-detection-description": "అగ్ని నివారణ మరియు నియంత్రణ కోసం ముందస్తు హెచ్చరిక వ్యవస్థ",
+            "bird-deterrence": "బర్డ్ డిటరెన్స్",
+            "bird-deterrence-description": "స్మార్ట్ బర్డ్ కంట్రోల్ సిస్టమ్‌తో మీ పంటలను రక్షించుకోండి"
+        },
+        "metrics": {
+            "water-saved": "0",
+            "water-saved-description": "మిలియన్ లీటర్ల నీరు ఆదా అయింది",
+            "farmers-count": "0",
+            "farmers-count-description": "వ్యవసాయ సీఎస్‌ని ఉపయోగిస్తున్న రైతులు",
+            "acres-covered": "0",
+            "acres-covered-description": "ఎకరాలు నిండింది"
+        },
+        "testimonials": {
+            "title": "సక్సెస్ స్టోరీస్",
+            "subtitle": "FarmCSతో తమ నీటిపారుదలని మార్చుకున్న రైతుల నుండి వినండి",
+            "farmer1-name": "రాజేష్ కుమార్",
+            "farmer1-testimonial": "\"FarmCS helped me reduce water usage by 40% while improving my crop yield. The real-time monitoring is a game-changer!\"",
+            "farmer2-name": "ప్రియా పటేల్",
+            "farmer2-testimonial": "\"The smart fertilization feature has made a huge difference in my farm's productivity. My profits have increased significantly.\"",
+            "farmer3-name": "సురేష్ సింగ్",
+            "farmer3-testimonial": "\"The fire detection system saved my wheat field last summer. FarmCS is truly a revolutionary product for Indian farmers.\""
+        },
+        "footer": {
+            "description": "స్మార్ట్ ఇరిగేషన్ మరియు IoT టెక్నాలజీ ద్వారా వ్యవసాయంలో విప్లవాత్మక మార్పులు. వ్యవసాయాన్ని తెలివిగా, స్థిరంగా మరియు మరింత సమర్థవంతంగా చేయడం.",
+            "features": {
+                "title": "Our Features",
+                "smart-irrigation": "Smart Irrigation",
+                "soil-monitoring": "Soil Monitoring",
+                "weather-integration": "Weather Integration",
+                "mobile-control": "Mobile Control",
+                "data-analytics": "Data Analytics"
+            },
+            "resources": {
+                "title": "Resources",
+                "documentation": "Documentation",
+                "support-center": "Support Center",
+                "installation-guide": "Installation Guide",
+                "system-updates": "System Updates",
+                "user-manual": "User Manual"
+            },
+            "contact": {
+                "title": "Contact & Legal",
+                "contact-us": "Contact Us",
+                "privacy-policy": "Privacy Policy",
+                "terms-of-service": "Terms of Service",
+                "warranty-info": "Warranty Info",
+                "support-policy": "Support Policy"
+            },
+            "social": {
+                "title": "Connect With Us",
+                "facebook": "Facebook",
+                "twitter": "Twitter",
+                "linkedin": "LinkedIn",
+                "instagram": "Instagram"
+            },
+            "copyright": "2023 FarmCS. అన్ని హక్కులు ప్రత్యేకించబడ్డాయి.",
+            "made-with-love": "భారతదేశంలో తయారు చేయబడింది"
+        }
+    },
+    "ta": {
+        "nav": {
+            "home": "வீடு",
+            "features": "அம்சங்கள்",
+            "cropdata": "பயிர் தரவு",
+            "learn-more": "மேலும் அறிக",
+            "about": "எங்களைப் பற்றி",
+            "contact": "தொடர்பு கொள்ளவும்",
+            "login": "உள்நுழைக",
+            "signup": "பதிவு செய்யவும்"
+        },
+        "hero": {
+            "title": "இந்திய விவசாயிகளுக்கு ஸ்மார்ட் பாசன தீர்வுகள் மூலம் அதிகாரமளித்தல்",
+            "subtitle": "இந்தியாவின் முதல் ஸ்மார்ட் தெளிப்பான் அமைப்பு மூலம் தண்ணீரைச் சேமிக்கவும், விளைச்சலை மேம்படுத்தவும், விவசாயத்தில் புதுமையைப் பின்பற்றவும்.",
+            "cta_button": "மேலும் அறிக"
+        },
+        "features": {
+            "title": "நவீன விவசாயத்திற்கான ஸ்மார்ட் அம்சங்கள்",
+            "subtitle": "FarmCS எப்படி நீர்ப்பாசனத்தில் புரட்சியை ஏற்படுத்துகிறது என்பதைக் கண்டறியவும்",
+            "real-time-data": "நிகழ் நேர களத் தரவு",
+            "real-time-data-description": "மண்ணின் ஈரப்பதம், வெப்பநிலை மற்றும் ஈரப்பதத்தை நிகழ்நேரத்தில் கண்காணிக்கவும்",
+            "smart-fertilization": "ஸ்மார்ட் கருத்தரித்தல்",
+            "smart-fertilization-description": "அறிவார்ந்த கருத்தரித்தல் கட்டுப்பாட்டுடன் ஊட்டச்சத்து விநியோகத்தை மேம்படுத்தவும்",
+            "fire-detection": "தீ கண்டறிதல்",
+            "fire-detection-description": "தீ தடுப்பு மற்றும் கட்டுப்பாட்டுக்கான ஆரம்ப எச்சரிக்கை அமைப்பு",
+            "bird-deterrence": "பறவை தடுப்பு",
+            "bird-deterrence-description": "ஸ்மார்ட் பறவை கட்டுப்பாட்டு அமைப்பு மூலம் உங்கள் பயிர்களைப் பாதுகாக்கவும்"
+        },
+        "metrics": {
+            "water-saved": "0",
+            "water-saved-description": "மில்லியன் லிட்டர் தண்ணீர் சேமிக்கப்பட்டது",
+            "farmers-count": "0",
+            "farmers-count-description": "பண்ணை சிஎஸ் பயன்படுத்தும் விவசாயிகள்",
+            "acres-covered": "0",
+            "acres-covered-description": "ஏக்கர் பரப்பளவு கொண்டது"
+        },
+        "testimonials": {
+            "title": "வெற்றிக் கதைகள்",
+            "subtitle": "FarmCS மூலம் தங்கள் பாசனத்தை மாற்றிய விவசாயிகளிடம் கேளுங்கள்",
+            "farmer1-name": "ராஜேஷ் குமார்",
+            "farmer1-testimonial": "\"FarmCS helped me reduce water usage by 40% while improving my crop yield. The real-time monitoring is a game-changer!\"",
+            "farmer2-name": "பிரியா படேல்",
+            "farmer2-testimonial": "\"The smart fertilization feature has made a huge difference in my farm's productivity. My profits have increased significantly.\"",
+            "farmer3-name": "சுரேஷ் சிங்",
+            "farmer3-testimonial": "\"The fire detection system saved my wheat field last summer. FarmCS is truly a revolutionary product for Indian farmers.\""
+        },
+        "footer": {
+            "description": "ஸ்மார்ட் நீர்ப்பாசனம் மற்றும் ஐஓடி தொழில்நுட்பம் மூலம் விவசாயத்தில் புரட்சியை ஏற்படுத்துதல். விவசாயத்தை புத்திசாலித்தனமாகவும், நிலையானதாகவும், திறமையாகவும் ஆக்குதல்.",
+            "features": {
+                "title": "Our Features",
+                "smart-irrigation": "Smart Irrigation",
+                "soil-monitoring": "Soil Monitoring",
+                "weather-integration": "Weather Integration",
+                "mobile-control": "Mobile Control",
+                "data-analytics": "Data Analytics"
+            },
+            "resources": {
+                "title": "Resources",
+                "documentation": "Documentation",
+                "support-center": "Support Center",
+                "installation-guide": "Installation Guide",
+                "system-updates": "System Updates",
+                "user-manual": "User Manual"
+            },
+            "contact": {
+                "title": "Contact & Legal",
+                "contact-us": "Contact Us",
+                "privacy-policy": "Privacy Policy",
+                "terms-of-service": "Terms of Service",
+                "warranty-info": "Warranty Info",
+                "support-policy": "Support Policy"
+            },
+            "social": {
+                "title": "Connect With Us",
+                "facebook": "Facebook",
+                "twitter": "Twitter",
+                "linkedin": "LinkedIn",
+                "instagram": "Instagram"
+            },
+            "copyright": "2023 FarmCS. அனைத்து உரிமைகளும் பாதுகாக்கப்பட்டவை.",
+            "made-with-love": "இந்தியாவில் தயாரிக்கப்பட்டது"
+        }
+    },
+    "mr": {
+        "nav": {
+            "home": "घर",
+            "features": "वैशिष्ट्ये",
+            "cropdata": "क्रॉप डेटा",
+            "learn-more": "अधिक जाणून घ्या",
+            "about": "आमच्याबद्दल",
+            "contact": "संपर्क करा",
+            "login": "लॉगिन करा",
+            "signup": "साइन अप करा"
+        },
+        "hero": {
+            "title": "स्मार्ट इरिगेशन सोल्यूशन्ससह भारतीय शेतकऱ्यांना सक्षम करणे",
+            "subtitle": "भारतातील पहिल्या स्मार्ट स्प्रिंकलर सिस्टीमसह पाण्याची बचत करा, उत्पादन वाढवा आणि शेतीमध्ये नावीन्य आणा.",
+            "cta_button": "अधिक जाणून घ्या"
+        },
+        "features": {
+            "title": "आधुनिक शेतीसाठी स्मार्ट वैशिष्ट्ये",
+            "subtitle": "FarmCS सिंचनात कशी क्रांती आणते ते शोधा",
+            "real-time-data": "रिअल-टाइम फील्ड डेटा",
+            "real-time-data-description": "वास्तविक वेळेत मातीची आर्द्रता, तापमान आणि आर्द्रतेचे निरीक्षण करा",
+            "smart-fertilization": "स्मार्ट फर्टिलायझेशन",
+            "smart-fertilization-description": "बुद्धिमान फर्टिगेशन नियंत्रणासह पोषक वितरण ऑप्टिमाइझ करा",
+            "fire-detection": "फायर डिटेक्शन",
+            "fire-detection-description": "आग प्रतिबंध आणि नियंत्रणासाठी पूर्व चेतावणी प्रणाली",
+            "bird-deterrence": "पक्षी प्रतिबंध",
+            "bird-deterrence-description": "स्मार्ट पक्षी नियंत्रण प्रणालीसह आपल्या पिकांचे संरक्षण करा"
+        },
+        "metrics": {
+            "water-saved": "0",
+            "water-saved-description": "लाखो लिटर पाण्याची बचत",
+            "farmers-count": "0",
+            "farmers-count-description": "FarmCS वापरणारे शेतकरी",
+            "acres-covered": "0",
+            "acres-covered-description": "एकर झाकलेले"
+        },
+        "testimonials": {
+            "title": "यशोगाथा",
+            "subtitle": "FarmCS सह त्यांच्या सिंचनाचा कायापालट करणाऱ्या शेतकऱ्यांकडून ऐका",
+            "farmer1-name": "राजेश कुमार",
+            "farmer1-testimonial": "\"FarmCS helped me reduce water usage by 40% while improving my crop yield. The real-time monitoring is a game-changer!\"",
+            "farmer2-name": "प्रिया पटेल",
+            "farmer2-testimonial": "\"The smart fertilization feature has made a huge difference in my farm's productivity. My profits have increased significantly.\"",
+            "farmer3-name": "सुरेश सिंग",
+            "farmer3-testimonial": "\"The fire detection system saved my wheat field last summer. FarmCS is truly a revolutionary product for Indian farmers.\""
+        },
+        "footer": {
+            "description": "स्मार्ट सिंचन आणि IoT तंत्रज्ञानाद्वारे शेतीमध्ये क्रांती घडवून आणणे. शेती अधिक स्मार्ट, शाश्वत आणि अधिक कार्यक्षम बनवणे.",
+            "features": {
+                "title": "Our Features",
+                "smart-irrigation": "Smart Irrigation",
+                "soil-monitoring": "Soil Monitoring",
+                "weather-integration": "Weather Integration",
+                "mobile-control": "Mobile Control",
+                "data-analytics": "Data Analytics"
+            },
+            "resources": {
+                "title": "Resources",
+                "documentation": "Documentation",
+                "support-center": "Support Center",
+                "installation-guide": "Installation Guide",
+                "system-updates": "System Updates",
+                "user-manual": "User Manual"
+            },
+            "contact": {
+                "title": "Contact & Legal",
+                "contact-us": "Contact Us",
+                "privacy-policy": "Privacy Policy",
+                "terms-of-service": "Terms of Service",
+                "warranty-info": "Warranty Info",
+                "support-policy": "Support Policy"
+            },
+            "social": {
+                "title": "Connect With Us",
+                "facebook": "Facebook",
+                "twitter": "Twitter",
+                "linkedin": "LinkedIn",
+                "instagram": "Instagram"
+            },
+            "copyright": "2023 FarmCS. सर्व हक्क राखीव.",
+            "made-with-love": "भारतात बनवलेले"
+        }
+    },
+    "gu": {
+        "nav": {
+            "home": "ઘર",
+            "features": "લક્ષણો",
+            "cropdata": "ક્રોપ ડેટા",
+            "learn-more": "વધુ જાણો",
+            "about": "અમારા વિશે",
+            "contact": "સંપર્ક કરો",
+            "login": "લૉગિન કરો",
+            "signup": "સાઇન અપ કરો"
+        },
+        "hero": {
+            "title": "સ્માર્ટ ઇરિગેશન સોલ્યુશન્સ સાથે ભારતીય ખેડૂતોને સશક્તિકરણ",
+            "subtitle": "ભારતની પ્રથમ સ્માર્ટ સ્પ્રિંકલર સિસ્ટમ સાથે પાણી બચાવો, ઉપજમાં સુધારો કરો અને કૃષિમાં નવીનતા અપનાવો.",
+            "cta_button": "વધુ જાણો"
+        },
+        "features": {
+            "title": "આધુનિક ખેતી માટે સ્માર્ટ સુવિધાઓ",
+            "subtitle": "ફાર્મસીએસ સિંચાઈમાં ક્રાંતિ કેવી રીતે કરે છે તે શોધો",
+            "real-time-data": "રીઅલ-ટાઇમ ફીલ્ડ ડેટા",
+            "real-time-data-description": "રીઅલ-ટાઇમમાં જમીનની ભેજ, તાપમાન અને ભેજનું નિરીક્ષણ કરો",
+            "smart-fertilization": "સ્માર્ટ ફર્ટિલાઇઝેશન",
+            "smart-fertilization-description": "બુદ્ધિશાળી ગર્ભાધાન નિયંત્રણ સાથે પોષક તત્ત્વોના વિતરણને ઑપ્ટિમાઇઝ કરો",
+            "fire-detection": "ફાયર ડિટેક્શન",
+            "fire-detection-description": "આગ નિવારણ અને નિયંત્રણ માટે પ્રારંભિક ચેતવણી સિસ્ટમ",
+            "bird-deterrence": "બર્ડ ડિટરન્સ",
+            "bird-deterrence-description": "સ્માર્ટ બર્ડ કંટ્રોલ સિસ્ટમ વડે તમારા પાકને સુરક્ષિત કરો"
+        },
+        "metrics": {
+            "water-saved": "0",
+            "water-saved-description": "લાખો લીટર પાણીની બચત",
+            "farmers-count": "0",
+            "farmers-count-description": "FarmCS નો ઉપયોગ કરતા ખેડૂતો",
+            "acres-covered": "0",
+            "acres-covered-description": "એકર આવરી લેવામાં આવ્યું છે"
+        },
+        "testimonials": {
+            "title": "સક્સેસ સ્ટોરીઝ",
+            "subtitle": "ખેડૂતો પાસેથી સાંભળો જેમણે FarmCS વડે તેમની સિંચાઈમાં પરિવર્તન કર્યું છે",
+            "farmer1-name": "રાજેશ કુમાર",
+            "farmer1-testimonial": "\"FarmCS helped me reduce water usage by 40% while improving my crop yield. The real-time monitoring is a game-changer!\"",
+            "farmer2-name": "પ્રિયા પટેલ",
+            "farmer2-testimonial": "\"The smart fertilization feature has made a huge difference in my farm's productivity. My profits have increased significantly.\"",
+            "farmer3-name": "સુરેશ સિંહ",
+            "farmer3-testimonial": "\"The fire detection system saved my wheat field last summer. FarmCS is truly a revolutionary product for Indian farmers.\""
+        },
+        "footer": {
+            "description": "સ્માર્ટ સિંચાઈ અને IoT ટેકનોલોજી દ્વારા કૃષિમાં ક્રાંતિ લાવી. ખેતીને વધુ સ્માર્ટ, ટકાઉ અને વધુ કાર્યક્ષમ બનાવવી.",
+            "features": {
+                "title": "Our Features",
+                "smart-irrigation": "Smart Irrigation",
+                "soil-monitoring": "Soil Monitoring",
+                "weather-integration": "Weather Integration",
+                "mobile-control": "Mobile Control",
+                "data-analytics": "Data Analytics"
+            },
+            "resources": {
+                "title": "Resources",
+                "documentation": "Documentation",
+                "support-center": "Support Center",
+                "installation-guide": "Installation Guide",
+                "system-updates": "System Updates",
+                "user-manual": "User Manual"
+            },
+            "contact": {
+                "title": "Contact & Legal",
+                "contact-us": "Contact Us",
+                "privacy-policy": "Privacy Policy",
+                "terms-of-service": "Terms of Service",
+                "warranty-info": "Warranty Info",
+                "support-policy": "Support Policy"
+            },
+            "social": {
+                "title": "Connect With Us",
+                "facebook": "Facebook",
+                "twitter": "Twitter",
+                "linkedin": "LinkedIn",
+                "instagram": "Instagram"
+            },
+            "copyright": "2023 ફાર્મસીએસ. સર્વાધિકાર આરક્ષિત.",
+            "made-with-love": "ભારતમાં સાથે બનાવેલ છે"
+        }
+    },
+    "kn": {
+        "nav": {
+            "home": "ಮನೆ",
+            "features": "ವೈಶಿಷ್ಟ್ಯಗಳು",
+            "cropdata": "ಕ್ರಾಪ್ ಡೇಟಾ",
+            "learn-more": "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ",
+            "about": "ನಮ್ಮ ಬಗ್ಗೆ",
+            "contact": "ಸಂಪರ್ಕಿಸಿ",
+            "login": "ಲಾಗಿನ್ ಮಾಡಿ",
+            "signup": "ಸೈನ್ ಅಪ್ ಮಾಡಿ"
+        },
+        "hero": {
+            "title": "ಸ್ಮಾರ್ಟ್ ನೀರಾವರಿ ಪರಿಹಾರಗಳೊಂದಿಗೆ ಭಾರತೀಯ ರೈತರನ್ನು ಸಬಲೀಕರಣಗೊಳಿಸುವುದು",
+            "subtitle": "ಭಾರತದ ಮೊದಲ ಸ್ಮಾರ್ಟ್ ಸ್ಪ್ರಿಂಕ್ಲರ್ ವ್ಯವಸ್ಥೆಯೊಂದಿಗೆ ನೀರನ್ನು ಉಳಿಸಿ, ಇಳುವರಿಯನ್ನು ಸುಧಾರಿಸಿ ಮತ್ತು ಕೃಷಿಯಲ್ಲಿ ನಾವೀನ್ಯತೆಯನ್ನು ಅಳವಡಿಸಿಕೊಳ್ಳಿ.",
+            "cta_button": "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ"
+        },
+        "features": {
+            "title": "ಆಧುನಿಕ ಕೃಷಿಗಾಗಿ ಸ್ಮಾರ್ಟ್ ವೈಶಿಷ್ಟ್ಯಗಳು",
+            "subtitle": "ಫಾರ್ಮ್‌ಸಿಎಸ್ ನೀರಾವರಿಯನ್ನು ಹೇಗೆ ಕ್ರಾಂತಿಗೊಳಿಸುತ್ತದೆ ಎಂಬುದನ್ನು ಕಂಡುಕೊಳ್ಳಿ",
+            "real-time-data": "ರಿಯಲ್-ಟೈಮ್ ಫೀಲ್ಡ್ ಡೇಟಾ",
+            "real-time-data-description": "ನೈಜ ಸಮಯದಲ್ಲಿ ಮಣ್ಣಿನ ತೇವಾಂಶ, ತಾಪಮಾನ ಮತ್ತು ತೇವಾಂಶವನ್ನು ಮೇಲ್ವಿಚಾರಣೆ ಮಾಡಿ",
+            "smart-fertilization": "ಸ್ಮಾರ್ಟ್ ಫಲೀಕರಣ",
+            "smart-fertilization-description": "ಬುದ್ಧಿವಂತ ಫಲೀಕರಣ ನಿಯಂತ್ರಣದೊಂದಿಗೆ ಪೋಷಕಾಂಶಗಳ ವಿತರಣೆಯನ್ನು ಅತ್ಯುತ್ತಮವಾಗಿಸಿ",
+            "fire-detection": "ಬೆಂಕಿ ಪತ್ತೆ",
+            "fire-detection-description": "ಬೆಂಕಿ ತಡೆಗಟ್ಟುವಿಕೆ ಮತ್ತು ನಿಯಂತ್ರಣಕ್ಕಾಗಿ ಆರಂಭಿಕ ಎಚ್ಚರಿಕೆ ವ್ಯವಸ್ಥೆ",
+            "bird-deterrence": "ಬರ್ಡ್ ಡಿಟೆರೆನ್ಸ್",
+            "bird-deterrence-description": "ಸ್ಮಾರ್ಟ್ ಪಕ್ಷಿ ನಿಯಂತ್ರಣ ವ್ಯವಸ್ಥೆಯೊಂದಿಗೆ ನಿಮ್ಮ ಬೆಳೆಗಳನ್ನು ರಕ್ಷಿಸಿ"
+        },
+        "metrics": {
+            "water-saved": "0",
+            "water-saved-description": "ಮಿಲಿಯನ್ ಲೀಟರ್ ನೀರು ಉಳಿತಾಯವಾಗಿದೆ",
+            "farmers-count": "0",
+            "farmers-count-description": "ಫಾರ್ಮ್ ಸಿಎಸ್ ಬಳಸುವ ರೈತರು",
+            "acres-covered": "0",
+            "acres-covered-description": "ಎಕರೆಗಟ್ಟಲೆ ಆವರಿಸಿದೆ"
+        },
+        "testimonials": {
+            "title": "ಯಶಸ್ಸಿನ ಕಥೆಗಳು",
+            "subtitle": "ಫಾರ್ಮ್‌ಸಿಎಸ್‌ನೊಂದಿಗೆ ತಮ್ಮ ನೀರಾವರಿಯನ್ನು ಪರಿವರ್ತಿಸಿದ ರೈತರಿಂದ ಕೇಳಿ",
+            "farmer1-name": "ರಾಜೇಶ್ ಕುಮಾರ್",
+            "farmer1-testimonial": "\"FarmCS helped me reduce water usage by 40% while improving my crop yield. The real-time monitoring is a game-changer!\"",
+            "farmer2-name": "ಪ್ರಿಯಾ ಪಟೇಲ್",
+            "farmer2-testimonial": "\"The smart fertilization feature has made a huge difference in my farm's productivity. My profits have increased significantly.\"",
+            "farmer3-name": "ಸುರೇಶ್ ಸಿಂಗ್",
+            "farmer3-testimonial": "\"The fire detection system saved my wheat field last summer. FarmCS is truly a revolutionary product for Indian farmers.\""
+        },
+        "footer": {
+            "description": "ಸ್ಮಾರ್ಟ್ ನೀರಾವರಿ ಮತ್ತು ಐಒಟಿ ತಂತ್ರಜ್ಞಾನದ ಮೂಲಕ ಕೃಷಿಯನ್ನು ಕ್ರಾಂತಿಗೊಳಿಸುವುದು. ಕೃಷಿಯನ್ನು ಚುರುಕಾದ, ಸಮರ್ಥನೀಯ ಮತ್ತು ಹೆಚ್ಚು ಪರಿಣಾಮಕಾರಿಯಾಗಿ ಮಾಡುವುದು.",
+            "features": {
+                "title": "Our Features",
+                "smart-irrigation": "Smart Irrigation",
+                "soil-monitoring": "Soil Monitoring",
+                "weather-integration": "Weather Integration",
+                "mobile-control": "Mobile Control",
+                "data-analytics": "Data Analytics"
+            },
+            "resources": {
+                "title": "Resources",
+                "documentation": "Documentation",
+                "support-center": "Support Center",
+                "installation-guide": "Installation Guide",
+                "system-updates": "System Updates",
+                "user-manual": "User Manual"
+            },
+            "contact": {
+                "title": "Contact & Legal",
+                "contact-us": "Contact Us",
+                "privacy-policy": "Privacy Policy",
+                "terms-of-service": "Terms of Service",
+                "warranty-info": "Warranty Info",
+                "support-policy": "Support Policy"
+            },
+            "social": {
+                "title": "Connect With Us",
+                "facebook": "Facebook",
+                "twitter": "Twitter",
+                "linkedin": "LinkedIn",
+                "instagram": "Instagram"
+            },
+            "copyright": "2023 ಫಾರ್ಮ್ ಸಿಎಸ್. ಎಲ್ಲಾ ಹಕ್ಕುಗಳನ್ನು ಕಾಯ್ದಿರಿಸಲಾಗಿದೆ.",
+            "made-with-love": "ಭಾರತದಲ್ಲಿ ತಯಾರಿಸಲಾಗುತ್ತದೆ"
+        }
+    },
+    "ml": {
+        "nav": {
+            "home": "വീട്",
+            "features": "ഫീച്ചറുകൾ",
+            "cropdata": "ക്രോപ്പ് ഡാറ്റ",
+            "learn-more": "കൂടുതലറിയുക",
+            "about": "ഞങ്ങളേക്കുറിച്ച്",
+            "contact": "ബന്ധപ്പെടുക",
+            "login": "ലോഗിൻ",
+            "signup": "സൈൻ അപ്പ് ചെയ്യുക"
+        },
+        "hero": {
+            "title": "സ്മാർട്ട് ജലസേചന പരിഹാരങ്ങൾ ഉപയോഗിച്ച് ഇന്ത്യൻ കർഷകരെ ശാക്തീകരിക്കുന്നു",
+            "subtitle": "ഇന്ത്യയിലെ ആദ്യത്തെ സ്‌മാർട്ട് സ്‌പ്രിങ്ക്‌ളർ സംവിധാനം ഉപയോഗിച്ച് വെള്ളം ലാഭിക്കുക, വിളവ് മെച്ചപ്പെടുത്തുക, കാർഷിക മേഖലയിലെ നൂതനത്വം സ്വീകരിക്കുക.",
+            "cta_button": "കൂടുതലറിയുക"
+        },
+        "features": {
+            "title": "ആധുനിക കൃഷിക്കുള്ള സ്മാർട്ട് ഫീച്ചറുകൾ",
+            "subtitle": "ഫാംസിഎസ് ജലസേചനത്തിൽ എങ്ങനെ വിപ്ലവം സൃഷ്ടിക്കുന്നുവെന്ന് കണ്ടെത്തുക",
+            "real-time-data": "തത്സമയ ഫീൽഡ് ഡാറ്റ",
+            "real-time-data-description": "മണ്ണിൻ്റെ ഈർപ്പം, താപനില, ഈർപ്പം എന്നിവ തത്സമയം നിരീക്ഷിക്കുക",
+            "smart-fertilization": "സ്മാർട്ട് ഫെർട്ടിലൈസേഷൻ",
+            "smart-fertilization-description": "ഇൻ്റലിജൻ്റ് ഫെർട്ടിഗേഷൻ നിയന്ത്രണം ഉപയോഗിച്ച് പോഷക വിതരണം ഒപ്റ്റിമൈസ് ചെയ്യുക",
+            "fire-detection": "അഗ്നി കണ്ടെത്തൽ",
+            "fire-detection-description": "അഗ്നിബാധ തടയുന്നതിനും നിയന്ത്രിക്കുന്നതിനുമുള്ള മുൻകൂർ മുന്നറിയിപ്പ് സംവിധാനം",
+            "bird-deterrence": "പക്ഷി പ്രതിരോധം",
+            "bird-deterrence-description": "സ്മാർട്ട് പക്ഷി നിയന്ത്രണ സംവിധാനം ഉപയോഗിച്ച് നിങ്ങളുടെ വിളകൾ സംരക്ഷിക്കുക"
+        },
+        "metrics": {
+            "water-saved": "0",
+            "water-saved-description": "ലക്ഷക്കണക്കിന് ലിറ്റർ വെള്ളം ലാഭിച്ചു",
+            "farmers-count": "0",
+            "farmers-count-description": "ഫാംസിഎസ് ഉപയോഗിക്കുന്ന കർഷകർ",
+            "acres-covered": "0",
+            "acres-covered-description": "ഏക്കറുകളോളം മൂടി"
+        },
+        "testimonials": {
+            "title": "വിജയകഥകൾ",
+            "subtitle": "ഫാംസിഎസ് ഉപയോഗിച്ച് തങ്ങളുടെ ജലസേചനം മാറ്റിമറിച്ച കർഷകരിൽ നിന്ന് കേൾക്കുക",
+            "farmer1-name": "രാജേഷ് കുമാർ",
+            "farmer1-testimonial": "\"FarmCS helped me reduce water usage by 40% while improving my crop yield. The real-time monitoring is a game-changer!\"",
+            "farmer2-name": "പ്രിയ പട്ടേൽ",
+            "farmer2-testimonial": "\"The smart fertilization feature has made a huge difference in my farm's productivity. My profits have increased significantly.\"",
+            "farmer3-name": "സുരേഷ് സിംഗ്",
+            "farmer3-testimonial": "\"The fire detection system saved my wheat field last summer. FarmCS is truly a revolutionary product for Indian farmers.\""
+        },
+        "footer": {
+            "description": "സ്‌മാർട്ട് ജലസേചനത്തിലൂടെയും ഐഒടി സാങ്കേതികവിദ്യയിലൂടെയും കാർഷിക മേഖലയിൽ വിപ്ലവം സൃഷ്ടിക്കുന്നു. കൃഷി മികച്ചതും സുസ്ഥിരവും കൂടുതൽ കാര്യക്ഷമവുമാക്കുന്നു.",
+            "features": {
+                "title": "Our Features",
+                "smart-irrigation": "Smart Irrigation",
+                "soil-monitoring": "Soil Monitoring",
+                "weather-integration": "Weather Integration",
+                "mobile-control": "Mobile Control",
+                "data-analytics": "Data Analytics"
+            },
+            "resources": {
+                "title": "Resources",
+                "documentation": "Documentation",
+                "support-center": "Support Center",
+                "installation-guide": "Installation Guide",
+                "system-updates": "System Updates",
+                "user-manual": "User Manual"
+            },
+            "contact": {
+                "title": "Contact & Legal",
+                "contact-us": "Contact Us",
+                "privacy-policy": "Privacy Policy",
+                "terms-of-service": "Terms of Service",
+                "warranty-info": "Warranty Info",
+                "support-policy": "Support Policy"
+            },
+            "social": {
+                "title": "Connect With Us",
+                "facebook": "Facebook",
+                "twitter": "Twitter",
+                "linkedin": "LinkedIn",
+                "instagram": "Instagram"
+            },
+            "copyright": "2023 ഫാംസിഎസ്. എല്ലാ അവകാശങ്ങളും നിക്ഷിപ്തം.",
+            "made-with-love": "ഇന്ത്യയിൽ നിർമ്മിച്ചത്"
+        }
+    },
+    "pa": {
+        "nav": {
+            "home": "ਘਰ",
+            "features": "ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ",
+            "cropdata": "ਕ੍ਰੌਪ ਡੇਟਾ",
+            "learn-more": "ਜਿਆਦਾ ਜਾਣੋ",
+            "about": "ਸਾਡੇ ਬਾਰੇ",
+            "contact": "ਸੰਪਰਕ ਕਰੋ",
+            "login": "ਲਾਗਿਨ",
+            "signup": "ਸਾਇਨ ਅਪ"
+        },
+        "hero": {
+            "title": "ਸਮਾਰਟ ਸਿੰਚਾਈ ਹੱਲਾਂ ਨਾਲ ਭਾਰਤੀ ਕਿਸਾਨਾਂ ਨੂੰ ਸ਼ਕਤੀ ਪ੍ਰਦਾਨ ਕਰਨਾ",
+            "subtitle": "ਭਾਰਤ ਦੀ ਪਹਿਲੀ ਸਮਾਰਟ ਸਪ੍ਰਿੰਕਲਰ ਪ੍ਰਣਾਲੀ ਨਾਲ ਪਾਣੀ ਦੀ ਬੱਚਤ ਕਰੋ, ਪੈਦਾਵਾਰ ਵਿੱਚ ਸੁਧਾਰ ਕਰੋ, ਅਤੇ ਖੇਤੀ ਵਿੱਚ ਨਵੀਨਤਾ ਨੂੰ ਅਪਣਾਓ।",
+            "cta_button": "ਜਿਆਦਾ ਜਾਣੋ"
+        },
+        "features": {
+            "title": "ਆਧੁਨਿਕ ਖੇਤੀ ਲਈ ਸਮਾਰਟ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ",
+            "subtitle": "ਖੋਜ ਕਰੋ ਕਿ ਫਾਰਮਸੀਐਸ ਸਿੰਚਾਈ ਵਿੱਚ ਕ੍ਰਾਂਤੀ ਕਿਵੇਂ ਲਿਆਉਂਦਾ ਹੈ",
+            "real-time-data": "ਰੀਅਲ-ਟਾਈਮ ਫੀਲਡ ਡਾਟਾ",
+            "real-time-data-description": "ਰੀਅਲ-ਟਾਈਮ ਵਿੱਚ ਮਿੱਟੀ ਦੀ ਨਮੀ, ਤਾਪਮਾਨ ਅਤੇ ਨਮੀ ਦੀ ਨਿਗਰਾਨੀ ਕਰੋ",
+            "smart-fertilization": "ਸਮਾਰਟ ਫਰਟੀਲਾਈਜ਼ੇਸ਼ਨ",
+            "smart-fertilization-description": "ਬੁੱਧੀਮਾਨ ਫਰਟੀਗੇਸ਼ਨ ਨਿਯੰਤਰਣ ਨਾਲ ਪੌਸ਼ਟਿਕ ਡਿਲੀਵਰੀ ਨੂੰ ਅਨੁਕੂਲ ਬਣਾਓ",
+            "fire-detection": "ਅੱਗ ਖੋਜ",
+            "fire-detection-description": "ਅੱਗ ਦੀ ਰੋਕਥਾਮ ਅਤੇ ਨਿਯੰਤਰਣ ਲਈ ਸ਼ੁਰੂਆਤੀ ਚੇਤਾਵਨੀ ਪ੍ਰਣਾਲੀ",
+            "bird-deterrence": "ਪੰਛੀ ਦੀ ਰੋਕਥਾਮ",
+            "bird-deterrence-description": "ਸਮਾਰਟ ਬਰਡ ਕੰਟਰੋਲ ਸਿਸਟਮ ਨਾਲ ਆਪਣੀਆਂ ਫਸਲਾਂ ਦੀ ਰੱਖਿਆ ਕਰੋ"
+        },
+        "metrics": {
+            "water-saved": "0",
+            "water-saved-description": "ਮਿਲੀਅਨ ਲੀਟਰ ਪਾਣੀ ਦੀ ਬਚਤ",
+            "farmers-count": "0",
+            "farmers-count-description": "ਫਾਰਮਸੀਐਸ ਦੀ ਵਰਤੋਂ ਕਰਨ ਵਾਲੇ ਕਿਸਾਨ",
+            "acres-covered": "0",
+            "acres-covered-description": "ਏਕੜ ਕਵਰ ਕੀਤਾ"
+        },
+        "testimonials": {
+            "title": "ਸਫਲਤਾ ਦੀਆਂ ਕਹਾਣੀਆਂ",
+            "subtitle": "ਉਨ੍ਹਾਂ ਕਿਸਾਨਾਂ ਤੋਂ ਸੁਣੋ ਜਿਨ੍ਹਾਂ ਨੇ ਫਾਰਮਸੀਐਸ ਨਾਲ ਆਪਣੀ ਸਿੰਚਾਈ ਨੂੰ ਬਦਲਿਆ",
+            "farmer1-name": "ਰਾਜੇਸ਼ ਕੁਮਾਰ",
+            "farmer1-testimonial": "\"FarmCS helped me reduce water usage by 40% while improving my crop yield. The real-time monitoring is a game-changer!\"",
+            "farmer2-name": "ਪ੍ਰਿਆ ਪਟੇਲ",
+            "farmer2-testimonial": "\"The smart fertilization feature has made a huge difference in my farm's productivity. My profits have increased significantly.\"",
+            "farmer3-name": "ਸੁਰੇਸ਼ ਸਿੰਘ",
+            "farmer3-testimonial": "\"The fire detection system saved my wheat field last summer. FarmCS is truly a revolutionary product for Indian farmers.\""
+        },
+        "footer": {
+            "description": "ਸਮਾਰਟ ਸਿੰਚਾਈ ਅਤੇ ਆਈਓਟੀ ਤਕਨਾਲੋਜੀ ਦੁਆਰਾ ਖੇਤੀਬਾੜੀ ਵਿੱਚ ਕ੍ਰਾਂਤੀ ਲਿਆਉਣਾ। ਖੇਤੀ ਨੂੰ ਚੁਸਤ, ਟਿਕਾਊ ਅਤੇ ਵਧੇਰੇ ਕੁਸ਼ਲ ਬਣਾਉਣਾ।",
+            "features": {
+                "title": "Our Features",
+                "smart-irrigation": "Smart Irrigation",
+                "soil-monitoring": "Soil Monitoring",
+                "weather-integration": "Weather Integration",
+                "mobile-control": "Mobile Control",
+                "data-analytics": "Data Analytics"
+            },
+            "resources": {
+                "title": "Resources",
+                "documentation": "Documentation",
+                "support-center": "Support Center",
+                "installation-guide": "Installation Guide",
+                "system-updates": "System Updates",
+                "user-manual": "User Manual"
+            },
+            "contact": {
+                "title": "Contact & Legal",
+                "contact-us": "Contact Us",
+                "privacy-policy": "Privacy Policy",
+                "terms-of-service": "Terms of Service",
+                "warranty-info": "Warranty Info",
+                "support-policy": "Support Policy"
+            },
+            "social": {
+                "title": "Connect With Us",
+                "facebook": "Facebook",
+                "twitter": "Twitter",
+                "linkedin": "LinkedIn",
+                "instagram": "Instagram"
+            },
+            "copyright": "2023 ਫਾਰਮਸੀਐਸ. ਸਾਰੇ ਹੱਕ ਰਾਖਵੇਂ ਹਨ.",
+            "made-with-love": "ਭਾਰਤ ਵਿੱਚ ਨਾਲ ਬਣਾਇਆ ਗਿਆ ਹੈ"
+        }
+    },
+    "or": {
+        "nav": {
+            "home": "ଘର",
+            "features": "ବ Features ଶିଷ୍ଟ୍ୟଗୁଡିକ",
+            "cropdata": "ଫସଲ ତଥ୍ୟ |",
+            "learn-more": "ଅଧିକ ଜାଣନ୍ତୁ |",
+            "about": "ଆମ ବିଷୟରେ",
+            "contact": "ଯୋଗାଯୋଗ କରନ୍ତୁ |",
+            "login": "ଲଗଇନ୍ କରନ୍ତୁ |",
+            "signup": "ସାଇନ୍ ଅପ୍ କରନ୍ତୁ |"
+        },
+        "hero": {
+            "title": "ସ୍ମାର୍ଟ ଜଳସେଚନ ସମାଧାନ ସହିତ ଭାରତୀୟ କୃଷକମାନଙ୍କୁ ସଶକ୍ତ କରିବା |",
+            "subtitle": "ଜଳ ସଞ୍ଚୟ କରନ୍ତୁ, ଅମଳର ଉନ୍ନତି କରନ୍ତୁ ଏବଂ ଭାରତର ପ୍ରଥମ ସ୍ମାର୍ଟ ସ୍ପ୍ରିଙ୍କଲର ସିଷ୍ଟମ ସହିତ କୃଷି କ୍ଷେତ୍ରରେ ନୂତନତ୍ୱ ଗ୍ରହଣ କରନ୍ତୁ |",
+            "cta_button": "ଅଧିକ ଜାଣନ୍ତୁ |"
+        },
+        "features": {
+            "title": "ଆଧୁନିକ ଚାଷ ପାଇଁ ସ୍ମାର୍ଟ ବ Features ଶିଷ୍ଟ୍ୟ |",
+            "subtitle": "ଫାର୍ମସିଏସ୍ କିପରି ଜଳସେଚନରେ ପରିବର୍ତ୍ତନ ଆଣେ ଆବିଷ୍କାର କର |",
+            "real-time-data": "ରିଅଲ୍ ଟାଇମ୍ ଫିଲ୍ଡ ଡାଟା |",
+            "real-time-data-description": "ପ୍ରକୃତ ସମୟରେ ମୃତ୍ତିକାର ଆର୍ଦ୍ରତା, ତାପମାତ୍ରା ଏବଂ ଆର୍ଦ୍ରତା ଉପରେ ନଜର ରଖନ୍ତୁ |",
+            "smart-fertilization": "ସ୍ମାର୍ଟ ଫର୍ଟିଲାଇଜେସନ୍ |",
+            "smart-fertilization-description": "ବୁଦ୍ଧିମାନ ପ୍ରଜନନ ନିୟନ୍ତ୍ରଣ ସହିତ ପୁଷ୍ଟିକର ବିତରଣକୁ ଅପ୍ଟିମାଇଜ୍ କରନ୍ତୁ |",
+            "fire-detection": "ଅଗ୍ନି ଚିହ୍ନଟ",
+            "fire-detection-description": "ଅଗ୍ନି ନିରାକରଣ ଏବଂ ନିୟନ୍ତ୍ରଣ ପାଇଁ ପ୍ରାରମ୍ଭିକ ଚେତାବନୀ ବ୍ୟବସ୍ଥା |",
+            "bird-deterrence": "ପକ୍ଷୀ ବିଘ୍ନ",
+            "bird-deterrence-description": "ସ୍ମାର୍ଟ ପକ୍ଷୀ ନିୟନ୍ତ୍ରଣ ପ୍ରଣାଳୀ ସହିତ ତୁମର ଫସଲକୁ ରକ୍ଷା କର |"
+        },
+        "metrics": {
+            "water-saved": "0",
+            "water-saved-description": "ମିଲିୟନ୍ ଲିଟର ଜଳ ସଞ୍ଚୟ ହୋଇଛି |",
+            "farmers-count": "0",
+            "farmers-count-description": "ଫାର୍ମସିଏସ୍ ବ୍ୟବହାର କରୁଥିବା କୃଷକମାନେ |",
+            "acres-covered": "0",
+            "acres-covered-description": "ଏକର ଆଚ୍ଛାଦିତ |"
+        },
+        "testimonials": {
+            "title": "ସଫଳତା କାହାଣୀ |",
+            "subtitle": "କୃଷକମାନଙ୍କଠାରୁ ଶୁଣନ୍ତୁ ଯେଉଁମାନେ ଫାର୍ମସିଏସ୍ ସହିତ ସେମାନଙ୍କର ଜଳସେଚନକୁ ପରିବର୍ତ୍ତନ କରିଥିଲେ |",
+            "farmer1-name": "ରାଜେଶ କୁମାର",
+            "farmer1-testimonial": "\"FarmCS helped me reduce water usage by 40% while improving my crop yield. The real-time monitoring is a game-changer!\"",
+            "farmer2-name": "ପ୍ରିୟା ପଟେଲ |",
+            "farmer2-testimonial": "\"The smart fertilization feature has made a huge difference in my farm's productivity. My profits have increased significantly.\"",
+            "farmer3-name": "ସୁରେଶ ସିଂ",
+            "farmer3-testimonial": "\"The fire detection system saved my wheat field last summer. FarmCS is truly a revolutionary product for Indian farmers.\""
+        },
+        "footer": {
+            "description": "ସ୍ମାର୍ଟ ଜଳସେଚନ ଏବଂ IoT ପ୍ରଯୁକ୍ତିବିଦ୍ୟା ମାଧ୍ୟମରେ କୃଷିକୁ ବିପ୍ଳବ | ଚାଷକୁ ସ୍ମାର୍ଟ, ସ୍ଥାୟୀ ଏବଂ ଅଧିକ ଦକ୍ଷ କରିବା |",
+            "features": {
+                "title": "Our Features",
+                "smart-irrigation": "Smart Irrigation",
+                "soil-monitoring": "Soil Monitoring",
+                "weather-integration": "Weather Integration",
+                "mobile-control": "Mobile Control",
+                "data-analytics": "Data Analytics"
+            },
+            "resources": {
+                "title": "Resources",
+                "documentation": "Documentation",
+                "support-center": "Support Center",
+                "installation-guide": "Installation Guide",
+                "system-updates": "System Updates",
+                "user-manual": "User Manual"
+            },
+            "contact": {
+                "title": "Contact & Legal",
+                "contact-us": "Contact Us",
+                "privacy-policy": "Privacy Policy",
+                "terms-of-service": "Terms of Service",
+                "warranty-info": "Warranty Info",
+                "support-policy": "Support Policy"
+            },
+            "social": {
+                "title": "Connect With Us",
+                "facebook": "Facebook",
+                "twitter": "Twitter",
+                "linkedin": "LinkedIn",
+                "instagram": "Instagram"
+            },
+            "copyright": "2023 ଫାର୍ମସିଏସ୍ | ସମସ୍ତ ଅଧିକାର ସଂରକ୍ଷିତ |",
+            "made-with-love": "ଭାରତରେ ତିଆରି |"
+        }
+    },
+    "bho": {
+        "nav": {
+            "home": "घर",
+            "features": "विशेषता",
+            "cropdata": "फसल के आंकड़ा बा",
+            "learn-more": "अउरी जाने खातिर देखीं",
+            "about": "हमनी के बारे में",
+            "contact": "संपर्क",
+            "login": "लॉगिन करीं",
+            "signup": "साइन अप करीं"
+        },
+        "hero": {
+            "title": "स्मार्ट सिंचाई समाधान से भारतीय किसानों को सशक्त बनाना",
+            "subtitle": "भारत के पहिला स्मार्ट स्प्रिंकलर सिस्टम से पानी के बचत करीं, पैदावार में सुधार करीं, आ कृषि में नवाचार के अपनाईं.",
+            "cta_button": "अउरी जाने खातिर देखीं"
+        },
+        "features": {
+            "title": "आधुनिक खेती खातिर स्मार्ट फीचर",
+            "subtitle": "पता लगाईं कि फार्मसीएस सिंचाई में कइसे क्रांति ले आवेला",
+            "real-time-data": "रियल-टाइम फील्ड डेटा के बारे में बतावल गइल बा",
+            "real-time-data-description": "रियल टाइम में माटी के नमी, तापमान, आ नमी के निगरानी करीं",
+            "smart-fertilization": "स्मार्ट फर्टिलाइजेशन के बा",
+            "smart-fertilization-description": "बुद्धिमान निषेचन नियंत्रण के साथ पोषक तत्व वितरण के अनुकूलन",
+            "fire-detection": "आग के पता लगावे के बा",
+            "fire-detection-description": "आग से बचाव आ नियंत्रण खातिर जल्दी चेतावनी प्रणाली",
+            "bird-deterrence": "चिरई के रोकथाम के काम",
+            "bird-deterrence-description": "स्मार्ट बर्ड कंट्रोल सिस्टम से आपन फसल के रक्षा करीं"
+        },
+        "metrics": {
+            "water-saved": "0",
+            "water-saved-description": "लाख लीटर पानी के बचत भइल",
+            "farmers-count": "0",
+            "farmers-count-description": "फार्मसीएस के उपयोग कर रहे किसान",
+            "acres-covered": "0",
+            "acres-covered-description": "एकड़ कवर हो गइल बा"
+        },
+        "testimonials": {
+            "title": "सफलता के कहानी बा",
+            "subtitle": "फार्मसीएस से आपन सिंचाई के रूपांतरण करे वाला किसानन से सुनीं",
+            "farmer1-name": "राजेश कुमार के ह",
+            "farmer1-testimonial": "\"FarmCS helped me reduce water usage by 40% while improving my crop yield. The real-time monitoring is a game-changer!\"",
+            "farmer2-name": "प्रिया पटेल के ह",
+            "farmer2-testimonial": "\"The smart fertilization feature has made a huge difference in my farm's productivity. My profits have increased significantly.\"",
+            "farmer3-name": "सुरेश सिंह के ह",
+            "farmer3-testimonial": "\"The fire detection system saved my wheat field last summer. FarmCS is truly a revolutionary product for Indian farmers.\""
+        },
+        "footer": {
+            "description": "स्मार्ट सिंचाई आ आईओटी तकनीक के माध्यम से कृषि में क्रांति ले आवल। खेती के होशियार, टिकाऊ, आ कुशल बनावल.",
+            "features": {
+                "title": "Our Features",
+                "smart-irrigation": "Smart Irrigation",
+                "soil-monitoring": "Soil Monitoring",
+                "weather-integration": "Weather Integration",
+                "mobile-control": "Mobile Control",
+                "data-analytics": "Data Analytics"
+            },
+            "resources": {
+                "title": "Resources",
+                "documentation": "Documentation",
+                "support-center": "Support Center",
+                "installation-guide": "Installation Guide",
+                "system-updates": "System Updates",
+                "user-manual": "User Manual"
+            },
+            "contact": {
+                "title": "Contact & Legal",
+                "contact-us": "Contact Us",
+                "privacy-policy": "Privacy Policy",
+                "terms-of-service": "Terms of Service",
+                "warranty-info": "Warranty Info",
+                "support-policy": "Support Policy"
+            },
+            "social": {
+                "title": "Connect With Us",
+                "facebook": "Facebook",
+                "twitter": "Twitter",
+                "linkedin": "LinkedIn",
+                "instagram": "Instagram"
+            },
+            "copyright": "2023 के फार्मसीएस के बा। सब अधिकार सुरक्षित बा।",
+            "made-with-love": "भारत में के साथ बनावल गइल बा"
+        }
+    }
+}

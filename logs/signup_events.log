@@ -1,0 +1,27 @@
+{"timestamp":"2024-12-02 20:34:33","type":"SIGNUP_SUCCESS","message":"User registered successfully","data":{"email":"abhishekmaurya14112002@gmail.com"}}
+{"timestamp":"2024-12-02 20:36:57","type":"SIGNUP_SUCCESS","message":"User registered successfully","data":{"email":"abhishekmaurya14112002@gmail.com"}}
+{"timestamp":"2024-12-02 20:39:29","type":"SIGNUP_SUCCESS","message":"User registered successfully","data":{"email":"abhishekmaurya14112002@gmail.com"}}
+{"timestamp":"2024-12-02 20:43:26","type":"SIGNUP_SUCCESS","message":"User registered successfully","data":{"email":"abhishekmaurya14112002@gmail.com"}}
+{"timestamp":"2024-12-02 20:45:54","type":"SIGNUP_SUCCESS","message":"User registered successfully","data":{"email":"abhishekmaurya14112002@gmail.com"}}
+{"timestamp":"2024-12-03 10:13:20","type":"SIGNUP_SUCCESS","message":"User registered successfully","data":{"email":"abhishekmaurya14112002@gmail.com"}}
+{"timestamp":"2024-12-03 10:42:27","type":"SIGNUP_SUCCESS","message":"User registered successfully","data":{"email":"abhishekmaurya14112002@gmail.com"}}
+{"timestamp":"2024-12-03 11:00:18","type":"SIGNUP_SUCCESS","message":"User registered successfully","data":{"email":"abhishekmaurya14112002@gmail.com"}}
+{"timestamp":"2024-12-04 11:49:51","type":"SIGNUP_SUCCESS","message":"User registered successfully","data":{"email":"abhishekmaurya14112002@gmail.com"}}
+{"timestamp":"2024-12-04 12:12:44","type":"SIGNUP_SUCCESS","message":"User registered successfully","data":{"email":"abhishekmaurya14112002@gmail.com"}}
+{"timestamp":"2024-12-05 10:14:44","type":"SIGNUP_SUCCESS","message":"User registered successfully","data":{"email":"abhishekmaurya14112002@gmail.com"}}
+{"timestamp":"2024-12-05 10:19:44","type":"SIGNUP_SUCCESS","message":"User registered successfully","data":{"email":"abhishekmaurya14112002@gmail.com"}}
+{"timestamp":"2024-12-05 10:28:12","type":"SIGNUP_SUCCESS","message":"User registered successfully","data":{"email":"abhishekmaurya14112002@gmail.com"}}
+{"timestamp":"2024-12-05 10:34:06","type":"SIGNUP_FAILED","message":"Email already registered","data":{"email":"abhishekmaurya14112002@gmail.com"}}
+{"timestamp":"2024-12-05 10:34:06","type":"EXCEPTION","message":"Email already registered","data":{"trace":"#0 {main}","file":"C:\\xampp\\htdocs\\FarmCS\\handlers\\signup_handler.php","line":97}}
+{"timestamp":"2024-12-05 10:37:26","type":"SIGNUP_SUCCESS","message":"New user registered","data":{"email":"abhishekmaurya14112002@gmail.com","user_id":"11"}}
+{"timestamp":"2024-12-05 11:04:32","type":"SIGNUP_SUCCESS","message":"New user registered","data":{"email":"abhishekmaurya14112002@gmail.com","user_id":"12"}}
+{"timestamp":"2024-12-05 11:06:57","type":"SIGNUP_SUCCESS","message":"New user registered","data":{"email":"abhishekmaurya14112002@gmail.com","user_id":"13"}}
+{"timestamp":"2024-12-05 11:18:41","type":"SIGNUP_FAILED","message":"Email already registered","data":{"email":"abhishekmaurya14112002@gmail.com"}}
+{"timestamp":"2024-12-05 11:18:41","type":"EXCEPTION","message":"Email already registered","data":{"trace":"#0 {main}","file":"C:\\xampp\\htdocs\\FarmCS\\handlers\\signup_handler.php","line":97}}
+{"timestamp":"2024-12-05 11:18:57","type":"SIGNUP_SUCCESS","message":"New user registered","data":{"email":"abhishekmaurya14112002@gmail.com","user_id":"14"}}
+{"timestamp":"2024-12-05 11:20:49","type":"SUCCESS","message":"User registered successfully","data":{"email":"abhishekmaurya14112002@gmail.com"}}
+{"timestamp":"2024-12-05 11:23:51","type":"SUCCESS","message":"User registered successfully","data":{"email":"abhishekmaurya14112002@gmail.com"}}
+{"timestamp":"2024-12-05 11:24:16","type":"SUCCESS","message":"User registered successfully","data":{"email":"abhishekmaurya14112002@gmail.com"}}
+{"timestamp":"2024-12-05 16:07:46","type":"SUCCESS","message":"User registered successfully","data":{"email":"abhishekmaurya14112002@gmail.com"}}
+{"timestamp":"2024-12-06 08:55:35","type":"SUCCESS","message":"User registered successfully","data":{"email":"abhishekmaurya14112002@gmail.com"}}
+{"timestamp":"2024-12-07 16:06:30","type":"EXCEPTION","message":"SQLSTATE[42S22]: Column not found: 1054 Unknown column 'password_hash' in 'field list'","data":{"trace":"#0 C:\\xampp\\htdocs\\FarmCS\\handlers\\signup_handler.php(122): PDOStatement->execute()\n#1 {main}","file":"C:\\xampp\\htdocs\\FarmCS\\handlers\\signup_handler.php","line":122}}

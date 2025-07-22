@@ -1,0 +1,1081 @@
+[05-Dec-2024 14:43:21 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 10
+[05-Dec-2024 14:43:21 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 11
+[05-Dec-2024 14:43:21 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 12
+[05-Dec-2024 14:43:21 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 13
+[05-Dec-2024 14:43:21 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 14
+[05-Dec-2024 14:43:21 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:43:21 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:43:21 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:43:21 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:43:21 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 14:43:21 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 14:43:21 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 14:43:21 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 14:43:22 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 10
+[05-Dec-2024 14:43:22 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 11
+[05-Dec-2024 14:43:22 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 12
+[05-Dec-2024 14:43:22 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 13
+[05-Dec-2024 14:43:22 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 14
+[05-Dec-2024 14:43:22 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:43:22 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:43:22 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:43:22 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:43:22 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 14:43:22 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 14:43:22 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 14:43:22 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 14:43:23 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 10
+[05-Dec-2024 14:43:23 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 11
+[05-Dec-2024 14:43:23 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 12
+[05-Dec-2024 14:43:23 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 13
+[05-Dec-2024 14:43:23 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 14
+[05-Dec-2024 14:43:23 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:43:23 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:43:23 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:43:23 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:43:23 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 14:43:23 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 14:43:23 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 14:43:23 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 14:43:23 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 10
+[05-Dec-2024 14:43:23 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 11
+[05-Dec-2024 14:43:23 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 12
+[05-Dec-2024 14:43:23 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 13
+[05-Dec-2024 14:43:23 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 14
+[05-Dec-2024 14:43:23 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:43:23 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:43:23 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:43:23 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:43:23 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 14:43:23 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 14:43:23 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 14:43:23 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 14:43:23 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 10
+[05-Dec-2024 14:43:23 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 11
+[05-Dec-2024 14:43:23 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 12
+[05-Dec-2024 14:43:23 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 13
+[05-Dec-2024 14:43:23 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 14
+[05-Dec-2024 14:43:23 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:43:23 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:43:23 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:43:23 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:43:23 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 14:43:23 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 14:43:23 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 14:43:23 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 14:43:24 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 10
+[05-Dec-2024 14:43:24 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 11
+[05-Dec-2024 14:43:24 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 12
+[05-Dec-2024 14:43:24 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 13
+[05-Dec-2024 14:43:24 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 14
+[05-Dec-2024 14:43:24 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:43:24 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:43:24 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:43:24 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:43:24 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 14:43:24 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 14:43:24 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 14:43:24 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 14:43:24 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 10
+[05-Dec-2024 14:43:24 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 11
+[05-Dec-2024 14:43:24 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 12
+[05-Dec-2024 14:43:24 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 13
+[05-Dec-2024 14:43:24 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 14
+[05-Dec-2024 14:43:24 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:43:24 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:43:24 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:43:24 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:43:24 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 14:43:24 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 14:43:24 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 14:43:24 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 14:43:24 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 10
+[05-Dec-2024 14:43:24 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 11
+[05-Dec-2024 14:43:24 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 12
+[05-Dec-2024 14:43:24 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 13
+[05-Dec-2024 14:43:24 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 14
+[05-Dec-2024 14:43:24 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:43:24 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:43:24 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:43:24 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:43:24 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 14:43:24 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 14:43:24 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 14:43:24 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 14:44:37 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 10
+[05-Dec-2024 14:44:37 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 11
+[05-Dec-2024 14:44:37 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 12
+[05-Dec-2024 14:44:37 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 13
+[05-Dec-2024 14:44:37 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 14
+[05-Dec-2024 14:44:37 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:44:37 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:44:37 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:44:37 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:44:37 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 14:44:37 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 14:44:37 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 14:44:37 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 14:49:28 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 10
+[05-Dec-2024 14:49:28 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 11
+[05-Dec-2024 14:49:28 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 12
+[05-Dec-2024 14:49:28 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 13
+[05-Dec-2024 14:49:28 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 14
+[05-Dec-2024 14:49:28 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:49:28 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:49:28 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:49:28 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:49:28 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 14:49:28 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 14:49:28 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 14:49:28 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 14:49:29 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 10
+[05-Dec-2024 14:49:29 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 11
+[05-Dec-2024 14:49:29 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 12
+[05-Dec-2024 14:49:29 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 13
+[05-Dec-2024 14:49:29 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 14
+[05-Dec-2024 14:49:29 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:49:29 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:49:29 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:49:29 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:49:29 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 14:49:29 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 14:49:29 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 14:49:29 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 14:49:29 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 10
+[05-Dec-2024 14:49:29 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 11
+[05-Dec-2024 14:49:29 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 12
+[05-Dec-2024 14:49:29 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 13
+[05-Dec-2024 14:49:29 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 14
+[05-Dec-2024 14:49:29 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:49:29 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:49:29 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:49:29 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:49:29 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 14:49:29 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 14:49:29 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 14:49:29 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 14:49:29 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 10
+[05-Dec-2024 14:49:29 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 11
+[05-Dec-2024 14:49:29 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 12
+[05-Dec-2024 14:49:29 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 13
+[05-Dec-2024 14:49:29 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 14
+[05-Dec-2024 14:49:29 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:49:29 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:49:29 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:49:29 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:49:29 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 14:49:29 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 14:49:29 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 14:49:29 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 14:49:30 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 10
+[05-Dec-2024 14:49:30 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 11
+[05-Dec-2024 14:49:30 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 12
+[05-Dec-2024 14:49:30 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 13
+[05-Dec-2024 14:49:30 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 14
+[05-Dec-2024 14:49:30 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:49:30 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:49:30 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:49:30 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:49:30 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 14:49:30 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 14:49:30 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 14:49:30 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 14:49:30 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 10
+[05-Dec-2024 14:49:30 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 11
+[05-Dec-2024 14:49:30 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 12
+[05-Dec-2024 14:49:30 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 13
+[05-Dec-2024 14:49:30 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 14
+[05-Dec-2024 14:49:30 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:49:30 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:49:30 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:49:30 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:49:30 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 14:49:30 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 14:49:30 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 14:49:30 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 14:49:31 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 10
+[05-Dec-2024 14:49:31 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 11
+[05-Dec-2024 14:49:31 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 12
+[05-Dec-2024 14:49:31 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 13
+[05-Dec-2024 14:49:31 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 14
+[05-Dec-2024 14:49:31 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:49:31 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:49:31 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:49:31 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:49:31 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 14:49:31 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 14:49:31 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 14:49:31 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 14:55:40 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 10
+[05-Dec-2024 14:55:40 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 11
+[05-Dec-2024 14:55:40 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 12
+[05-Dec-2024 14:55:40 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 13
+[05-Dec-2024 14:55:40 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 14
+[05-Dec-2024 14:55:40 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:55:40 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:55:40 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:55:40 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:55:40 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 14:55:40 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 14:55:40 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 14:55:40 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 14:55:47 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 10
+[05-Dec-2024 14:55:47 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 11
+[05-Dec-2024 14:55:47 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 12
+[05-Dec-2024 14:55:47 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 13
+[05-Dec-2024 14:55:47 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 14
+[05-Dec-2024 14:55:47 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:55:47 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:55:47 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:55:47 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:55:47 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 14:55:47 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 14:55:47 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 14:55:47 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 14:57:56 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 10
+[05-Dec-2024 14:57:56 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 11
+[05-Dec-2024 14:57:56 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 12
+[05-Dec-2024 14:57:56 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 13
+[05-Dec-2024 14:57:56 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 14
+[05-Dec-2024 14:57:56 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:57:56 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:57:56 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:57:56 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 14:57:56 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 14:57:56 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 14:57:56 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 14:57:56 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 15:03:57 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 10
+[05-Dec-2024 15:03:57 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 11
+[05-Dec-2024 15:03:57 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 12
+[05-Dec-2024 15:03:57 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 13
+[05-Dec-2024 15:03:57 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 14
+[05-Dec-2024 15:03:57 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 15:03:57 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 15:03:57 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 15:03:57 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 15:03:57 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 15:03:57 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 15:03:57 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 15:03:57 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 15:04:13 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 10
+[05-Dec-2024 15:04:13 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 11
+[05-Dec-2024 15:04:13 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 12
+[05-Dec-2024 15:04:13 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 13
+[05-Dec-2024 15:04:13 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 14
+[05-Dec-2024 15:04:13 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 15:04:13 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 15:04:13 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 15:04:13 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 15:04:13 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 15:04:13 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 15:04:13 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 15:04:13 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 15:06:21 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 10
+[05-Dec-2024 15:06:21 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 11
+[05-Dec-2024 15:06:21 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 12
+[05-Dec-2024 15:06:21 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 13
+[05-Dec-2024 15:06:21 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 14
+[05-Dec-2024 15:06:21 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 15:06:21 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 15:06:21 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 15:06:21 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 15:06:21 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 15:06:21 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 15:06:21 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 39
+[05-Dec-2024 15:06:21 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 39
+{
+    "email": "abhishekmaurya14112002@gmail.com",
+    "error_type": "mysqli_sql_exception",
+    "error_message": "Access denied for user ''@'localhost' (using password: NO)",
+    "file": "C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php",
+    "line": 35,
+    "trace": "#0 C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php(35): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)\n#1 {main}"
+}[05-Dec-2024 15:06:22 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 10
+[05-Dec-2024 15:06:22 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 11
+[05-Dec-2024 15:06:22 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 12
+[05-Dec-2024 15:06:22 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 13
+[05-Dec-2024 15:06:22 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 14
+[05-Dec-2024 15:06:22 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 15:06:22 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 15:06:22 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 15:06:22 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 15:06:22 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 15:06:22 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 15:06:22 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 39
+[05-Dec-2024 15:06:22 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 39
+{
+    "email": "abhishekmaurya14112002@gmail.com",
+    "error_type": "mysqli_sql_exception",
+    "error_message": "Access denied for user ''@'localhost' (using password: NO)",
+    "file": "C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php",
+    "line": 35,
+    "trace": "#0 C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php(35): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)\n#1 {main}"
+}[05-Dec-2024 15:06:22 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 10
+[05-Dec-2024 15:06:22 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 11
+[05-Dec-2024 15:06:22 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 12
+[05-Dec-2024 15:06:22 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 13
+[05-Dec-2024 15:06:22 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 14
+[05-Dec-2024 15:06:22 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 15:06:22 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 15:06:22 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 15:06:22 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 15:06:22 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 15:06:22 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 15:06:22 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 39
+[05-Dec-2024 15:06:22 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 39
+{
+    "email": "abhishekmaurya14112002@gmail.com",
+    "error_type": "mysqli_sql_exception",
+    "error_message": "Access denied for user ''@'localhost' (using password: NO)",
+    "file": "C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php",
+    "line": 35,
+    "trace": "#0 C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php(35): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)\n#1 {main}"
+}[05-Dec-2024 15:06:22 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 10
+[05-Dec-2024 15:06:22 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 11
+[05-Dec-2024 15:06:22 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 12
+[05-Dec-2024 15:06:22 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 13
+[05-Dec-2024 15:06:22 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 14
+[05-Dec-2024 15:06:22 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 15:06:22 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 15:06:22 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 15:06:22 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 15:06:22 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 15:06:22 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 15:06:22 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 39
+[05-Dec-2024 15:06:22 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 39
+{
+    "email": "abhishekmaurya14112002@gmail.com",
+    "error_type": "mysqli_sql_exception",
+    "error_message": "Access denied for user ''@'localhost' (using password: NO)",
+    "file": "C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php",
+    "line": 35,
+    "trace": "#0 C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php(35): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)\n#1 {main}"
+}[05-Dec-2024 15:06:23 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 10
+[05-Dec-2024 15:06:23 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 11
+[05-Dec-2024 15:06:23 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 12
+[05-Dec-2024 15:06:23 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 13
+[05-Dec-2024 15:06:23 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 14
+[05-Dec-2024 15:06:23 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 15:06:23 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 15:06:23 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 15:06:23 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 15:06:23 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 15:06:23 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 15:06:23 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 39
+[05-Dec-2024 15:06:23 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 39
+{
+    "email": "abhishekmaurya14112002@gmail.com",
+    "error_type": "mysqli_sql_exception",
+    "error_message": "Access denied for user ''@'localhost' (using password: NO)",
+    "file": "C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php",
+    "line": 35,
+    "trace": "#0 C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php(35): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)\n#1 {main}"
+}[05-Dec-2024 15:06:23 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 10
+[05-Dec-2024 15:06:23 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 11
+[05-Dec-2024 15:06:23 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 12
+[05-Dec-2024 15:06:23 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 13
+[05-Dec-2024 15:06:23 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 14
+[05-Dec-2024 15:06:23 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 15:06:23 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 15:06:23 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 15:06:23 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 15:06:23 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 15:06:23 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 15:06:23 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 39
+[05-Dec-2024 15:06:23 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 39
+{
+    "email": "abhishekmaurya14112002@gmail.com",
+    "error_type": "mysqli_sql_exception",
+    "error_message": "Access denied for user ''@'localhost' (using password: NO)",
+    "file": "C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php",
+    "line": 35,
+    "trace": "#0 C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php(35): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)\n#1 {main}"
+}[05-Dec-2024 15:06:23 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 10
+[05-Dec-2024 15:06:23 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 11
+[05-Dec-2024 15:06:23 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 12
+[05-Dec-2024 15:06:23 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 13
+[05-Dec-2024 15:06:23 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 14
+[05-Dec-2024 15:06:23 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 15:06:23 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 15:06:23 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 15:06:23 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 15:06:23 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 15:06:23 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 15:06:23 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 39
+[05-Dec-2024 15:06:23 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 39
+{
+    "email": "abhishekmaurya14112002@gmail.com",
+    "error_type": "mysqli_sql_exception",
+    "error_message": "Access denied for user ''@'localhost' (using password: NO)",
+    "file": "C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php",
+    "line": 35,
+    "trace": "#0 C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php(35): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)\n#1 {main}"
+}[05-Dec-2024 15:06:24 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 10
+[05-Dec-2024 15:06:24 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 11
+[05-Dec-2024 15:06:24 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 12
+[05-Dec-2024 15:06:24 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 13
+[05-Dec-2024 15:06:24 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 14
+[05-Dec-2024 15:06:24 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 15:06:24 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 15:06:24 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 15:06:24 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 15:06:24 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 15:06:24 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 15:06:24 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 39
+[05-Dec-2024 15:06:24 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 39
+{
+    "email": "abhishekmaurya14112002@gmail.com",
+    "error_type": "mysqli_sql_exception",
+    "error_message": "Access denied for user ''@'localhost' (using password: NO)",
+    "file": "C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php",
+    "line": 35,
+    "trace": "#0 C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php(35): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)\n#1 {main}"
+}[05-Dec-2024 15:06:24 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 10
+[05-Dec-2024 15:06:24 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 11
+[05-Dec-2024 15:06:24 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 12
+[05-Dec-2024 15:06:24 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 13
+[05-Dec-2024 15:06:24 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 14
+[05-Dec-2024 15:06:24 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 15:06:24 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 15:06:24 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 15:06:24 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 15:06:24 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 15:06:24 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 15:06:24 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 39
+[05-Dec-2024 15:06:24 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 39
+{
+    "email": "abhishekmaurya14112002@gmail.com",
+    "error_type": "mysqli_sql_exception",
+    "error_message": "Access denied for user ''@'localhost' (using password: NO)",
+    "file": "C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php",
+    "line": 35,
+    "trace": "#0 C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php(35): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)\n#1 {main}"
+}[05-Dec-2024 15:06:24 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 10
+[05-Dec-2024 15:06:24 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 11
+[05-Dec-2024 15:06:24 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 12
+[05-Dec-2024 15:06:24 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 13
+[05-Dec-2024 15:06:24 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 14
+[05-Dec-2024 15:06:24 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 15:06:24 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 15:06:24 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 15:06:24 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 15:06:24 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 15:06:24 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 15:06:24 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 39
+[05-Dec-2024 15:06:24 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 39
+{
+    "email": "abhishekmaurya14112002@gmail.com",
+    "error_type": "mysqli_sql_exception",
+    "error_message": "Access denied for user ''@'localhost' (using password: NO)",
+    "file": "C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php",
+    "line": 35,
+    "trace": "#0 C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php(35): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)\n#1 {main}"
+}[05-Dec-2024 15:06:24 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 10
+[05-Dec-2024 15:06:24 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 11
+[05-Dec-2024 15:06:24 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 12
+[05-Dec-2024 15:06:24 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 13
+[05-Dec-2024 15:06:24 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 14
+[05-Dec-2024 15:06:24 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 15:06:24 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 15:06:24 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 15:06:24 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 15:06:24 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 15:06:24 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 15:06:24 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 39
+[05-Dec-2024 15:06:24 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 39
+{
+    "email": "abhishekmaurya14112002@gmail.com",
+    "error_type": "mysqli_sql_exception",
+    "error_message": "Access denied for user ''@'localhost' (using password: NO)",
+    "file": "C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php",
+    "line": 35,
+    "trace": "#0 C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php(35): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)\n#1 {main}"
+}[05-Dec-2024 15:11:56 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 10
+[05-Dec-2024 15:11:56 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 11
+[05-Dec-2024 15:11:56 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 12
+[05-Dec-2024 15:11:56 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 13
+[05-Dec-2024 15:11:56 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 14
+[05-Dec-2024 15:11:56 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 15:11:56 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 15:11:56 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 15:11:56 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 15:11:56 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 15:11:56 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 15:11:56 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 39
+[05-Dec-2024 15:11:56 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 39
+{
+    "email": "abhishekmaurya14112002@gmail.com",
+    "error_type": "mysqli_sql_exception",
+    "error_message": "Access denied for user ''@'localhost' (using password: NO)",
+    "file": "C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php",
+    "line": 35,
+    "trace": "#0 C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php(35): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)\n#1 {main}"
+}[05-Dec-2024 15:11:57 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 10
+[05-Dec-2024 15:11:57 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 11
+[05-Dec-2024 15:11:57 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 12
+[05-Dec-2024 15:11:57 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 13
+[05-Dec-2024 15:11:57 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 14
+[05-Dec-2024 15:11:57 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 15:11:57 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 15:11:57 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 15:11:57 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 15:11:57 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 15:11:57 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 15:11:57 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 39
+[05-Dec-2024 15:11:57 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 39
+{
+    "email": "abhishekmaurya14112002@gmail.com",
+    "error_type": "mysqli_sql_exception",
+    "error_message": "Access denied for user ''@'localhost' (using password: NO)",
+    "file": "C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php",
+    "line": 35,
+    "trace": "#0 C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php(35): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)\n#1 {main}"
+}[05-Dec-2024 15:11:57 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 10
+[05-Dec-2024 15:11:57 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 11
+[05-Dec-2024 15:11:57 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 12
+[05-Dec-2024 15:11:57 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 13
+[05-Dec-2024 15:11:57 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 14
+[05-Dec-2024 15:11:57 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 15:11:57 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 15:11:57 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 15:11:57 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 15:11:57 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 15:11:57 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 15:11:57 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 39
+[05-Dec-2024 15:11:57 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 39
+{
+    "email": "abhishekmaurya14112002@gmail.com",
+    "error_type": "mysqli_sql_exception",
+    "error_message": "Access denied for user ''@'localhost' (using password: NO)",
+    "file": "C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php",
+    "line": 35,
+    "trace": "#0 C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php(35): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)\n#1 {main}"
+}[05-Dec-2024 15:11:57 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 10
+[05-Dec-2024 15:11:57 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 11
+[05-Dec-2024 15:11:57 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 12
+[05-Dec-2024 15:11:57 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 13
+[05-Dec-2024 15:11:57 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 14
+[05-Dec-2024 15:11:57 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 15:11:57 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 15:11:57 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 15:11:57 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 15:11:57 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 15:11:57 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 15:11:57 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 39
+[05-Dec-2024 15:11:57 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 39
+{
+    "email": "abhishekmaurya14112002@gmail.com",
+    "error_type": "mysqli_sql_exception",
+    "error_message": "Access denied for user ''@'localhost' (using password: NO)",
+    "file": "C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php",
+    "line": 35,
+    "trace": "#0 C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php(35): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)\n#1 {main}"
+}[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 10
+[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 11
+[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 12
+[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 13
+[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 14
+[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 39
+[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 39
+{
+    "email": "abhishekmaurya14112002@gmail.com",
+    "error_type": "mysqli_sql_exception",
+    "error_message": "Access denied for user ''@'localhost' (using password: NO)",
+    "file": "C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php",
+    "line": 35,
+    "trace": "#0 C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php(35): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)\n#1 {main}"
+}[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 10
+[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 11
+[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 12
+[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 13
+[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 14
+[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 39
+[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 39
+{
+    "email": "abhishekmaurya14112002@gmail.com",
+    "error_type": "mysqli_sql_exception",
+    "error_message": "Access denied for user ''@'localhost' (using password: NO)",
+    "file": "C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php",
+    "line": 35,
+    "trace": "#0 C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php(35): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)\n#1 {main}"
+}[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 10
+[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 11
+[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 12
+[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 13
+[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 14
+[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 39
+[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 39
+{
+    "email": "abhishekmaurya14112002@gmail.com",
+    "error_type": "mysqli_sql_exception",
+    "error_message": "Access denied for user ''@'localhost' (using password: NO)",
+    "file": "C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php",
+    "line": 35,
+    "trace": "#0 C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php(35): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)\n#1 {main}"
+}[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 10
+[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 11
+[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 12
+[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 13
+[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 14
+[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 39
+[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 39
+{
+    "email": "abhishekmaurya14112002@gmail.com",
+    "error_type": "mysqli_sql_exception",
+    "error_message": "Access denied for user ''@'localhost' (using password: NO)",
+    "file": "C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php",
+    "line": 35,
+    "trace": "#0 C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php(35): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)\n#1 {main}"
+}[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 10
+[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 11
+[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 12
+[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 13
+[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 14
+[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 39
+[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 39
+{
+    "email": "abhishekmaurya14112002@gmail.com",
+    "error_type": "mysqli_sql_exception",
+    "error_message": "Access denied for user ''@'localhost' (using password: NO)",
+    "file": "C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php",
+    "line": 35,
+    "trace": "#0 C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php(35): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)\n#1 {main}"
+}[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 10
+[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 11
+[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 12
+[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 13
+[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 14
+[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 39
+[05-Dec-2024 15:11:58 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 39
+{
+    "email": "abhishekmaurya14112002@gmail.com",
+    "error_type": "mysqli_sql_exception",
+    "error_message": "Access denied for user ''@'localhost' (using password: NO)",
+    "file": "C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php",
+    "line": 35,
+    "trace": "#0 C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php(35): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)\n#1 {main}"
+}[05-Dec-2024 15:11:59 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 10
+[05-Dec-2024 15:11:59 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 11
+[05-Dec-2024 15:11:59 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 12
+[05-Dec-2024 15:11:59 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 13
+[05-Dec-2024 15:11:59 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 14
+[05-Dec-2024 15:11:59 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 15:11:59 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 15:11:59 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 15:11:59 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 15:11:59 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 15:11:59 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 15:11:59 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 39
+[05-Dec-2024 15:11:59 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 39
+{
+    "email": "abhishekmaurya14112002@gmail.com",
+    "error_type": "mysqli_sql_exception",
+    "error_message": "Access denied for user ''@'localhost' (using password: NO)",
+    "file": "C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php",
+    "line": 35,
+    "trace": "#0 C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php(35): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)\n#1 {main}"
+}[05-Dec-2024 15:11:59 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 10
+[05-Dec-2024 15:11:59 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 11
+[05-Dec-2024 15:11:59 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 12
+[05-Dec-2024 15:11:59 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 13
+[05-Dec-2024 15:11:59 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 14
+[05-Dec-2024 15:11:59 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 15:11:59 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 15:11:59 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 15:11:59 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 15:11:59 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 15:11:59 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 15:11:59 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 39
+[05-Dec-2024 15:11:59 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 39
+{
+    "email": "abhishekmaurya14112002@gmail.com",
+    "error_type": "mysqli_sql_exception",
+    "error_message": "Access denied for user ''@'localhost' (using password: NO)",
+    "file": "C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php",
+    "line": 35,
+    "trace": "#0 C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php(35): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)\n#1 {main}"
+}[05-Dec-2024 15:11:59 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 10
+[05-Dec-2024 15:11:59 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 11
+[05-Dec-2024 15:11:59 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 12
+[05-Dec-2024 15:11:59 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 13
+[05-Dec-2024 15:11:59 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 14
+[05-Dec-2024 15:11:59 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 15:11:59 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 15:11:59 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 15:11:59 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 15:11:59 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 15:11:59 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 15:11:59 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 39
+[05-Dec-2024 15:11:59 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 39
+{
+    "email": "abhishekmaurya14112002@gmail.com",
+    "error_type": "mysqli_sql_exception",
+    "error_message": "Access denied for user ''@'localhost' (using password: NO)",
+    "file": "C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php",
+    "line": 35,
+    "trace": "#0 C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php(35): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)\n#1 {main}"
+}[05-Dec-2024 15:11:59 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 10
+[05-Dec-2024 15:11:59 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 11
+[05-Dec-2024 15:11:59 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 12
+[05-Dec-2024 15:11:59 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 13
+[05-Dec-2024 15:11:59 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 14
+[05-Dec-2024 15:11:59 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 15:11:59 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 15:11:59 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 15:11:59 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 15:11:59 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 15:11:59 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 15:11:59 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 39
+[05-Dec-2024 15:11:59 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 39
+{
+    "email": "abhishekmaurya14112002@gmail.com",
+    "error_type": "mysqli_sql_exception",
+    "error_message": "Access denied for user ''@'localhost' (using password: NO)",
+    "file": "C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php",
+    "line": 35,
+    "trace": "#0 C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php(35): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)\n#1 {main}"
+}[05-Dec-2024 15:11:59 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 10
+[05-Dec-2024 15:11:59 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 11
+[05-Dec-2024 15:11:59 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 12
+[05-Dec-2024 15:11:59 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 13
+[05-Dec-2024 15:11:59 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 14
+[05-Dec-2024 15:11:59 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 15:11:59 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 15:11:59 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 15:11:59 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 15:11:59 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 15:11:59 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 15:11:59 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 39
+[05-Dec-2024 15:11:59 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 39
+{
+    "email": "abhishekmaurya14112002@gmail.com",
+    "error_type": "mysqli_sql_exception",
+    "error_message": "Access denied for user ''@'localhost' (using password: NO)",
+    "file": "C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php",
+    "line": 35,
+    "trace": "#0 C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php(35): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)\n#1 {main}"
+}[05-Dec-2024 15:12:00 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 10
+[05-Dec-2024 15:12:00 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 11
+[05-Dec-2024 15:12:00 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 12
+[05-Dec-2024 15:12:00 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 13
+[05-Dec-2024 15:12:00 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 14
+[05-Dec-2024 15:12:00 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 15:12:00 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 15:12:00 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 15:12:00 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 15:12:00 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 15:12:00 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 15:12:00 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 39
+[05-Dec-2024 15:12:00 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 39
+{
+    "email": "abhishekmaurya14112002@gmail.com",
+    "error_type": "mysqli_sql_exception",
+    "error_message": "Access denied for user ''@'localhost' (using password: NO)",
+    "file": "C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php",
+    "line": 35,
+    "trace": "#0 C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php(35): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)\n#1 {main}"
+}[05-Dec-2024 15:12:00 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 10
+[05-Dec-2024 15:12:00 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 11
+[05-Dec-2024 15:12:00 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 12
+[05-Dec-2024 15:12:00 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 13
+[05-Dec-2024 15:12:00 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 14
+[05-Dec-2024 15:12:00 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 15:12:00 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 15:12:00 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 15:12:00 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 15:12:00 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 15:12:00 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 15:12:00 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 39
+[05-Dec-2024 15:12:00 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 39
+{
+    "email": "abhishekmaurya14112002@gmail.com",
+    "error_type": "mysqli_sql_exception",
+    "error_message": "Access denied for user ''@'localhost' (using password: NO)",
+    "file": "C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php",
+    "line": 35,
+    "trace": "#0 C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php(35): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)\n#1 {main}"
+}[05-Dec-2024 15:12:00 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 10
+[05-Dec-2024 15:12:00 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 11
+[05-Dec-2024 15:12:00 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 12
+[05-Dec-2024 15:12:00 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 13
+[05-Dec-2024 15:12:00 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 14
+[05-Dec-2024 15:12:00 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 15:12:00 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 15:12:00 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 15:12:00 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 15:12:00 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 15:12:00 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 15:12:00 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 39
+[05-Dec-2024 15:12:00 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 39
+{
+    "email": "abhishekmaurya14112002@gmail.com",
+    "error_type": "mysqli_sql_exception",
+    "error_message": "Access denied for user ''@'localhost' (using password: NO)",
+    "file": "C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php",
+    "line": 35,
+    "trace": "#0 C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php(35): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)\n#1 {main}"
+}[05-Dec-2024 15:12:00 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 10
+[05-Dec-2024 15:12:00 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 11
+[05-Dec-2024 15:12:00 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 12
+[05-Dec-2024 15:12:00 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 13
+[05-Dec-2024 15:12:00 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 14
+[05-Dec-2024 15:12:00 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 15:12:00 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 15:12:00 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 15:12:00 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 15:12:00 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 15:12:00 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 15:12:00 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 39
+[05-Dec-2024 15:12:00 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 39
+{
+    "email": "abhishekmaurya14112002@gmail.com",
+    "error_type": "mysqli_sql_exception",
+    "error_message": "Access denied for user ''@'localhost' (using password: NO)",
+    "file": "C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php",
+    "line": 35,
+    "trace": "#0 C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php(35): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)\n#1 {main}"
+}[05-Dec-2024 15:12:01 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 10
+[05-Dec-2024 15:12:01 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 11
+[05-Dec-2024 15:12:01 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 12
+[05-Dec-2024 15:12:01 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 13
+[05-Dec-2024 15:12:01 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 14
+[05-Dec-2024 15:12:01 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 15:12:01 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 15:12:01 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 15:12:01 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 15:12:01 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 15:12:01 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 15:12:01 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 39
+[05-Dec-2024 15:12:01 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 39
+{
+    "email": "abhishekmaurya14112002@gmail.com",
+    "error_type": "mysqli_sql_exception",
+    "error_message": "Access denied for user ''@'localhost' (using password: NO)",
+    "file": "C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php",
+    "line": 35,
+    "trace": "#0 C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php(35): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)\n#1 {main}"
+}[05-Dec-2024 15:12:05 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 10
+[05-Dec-2024 15:12:05 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 11
+[05-Dec-2024 15:12:05 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 12
+[05-Dec-2024 15:12:05 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 13
+[05-Dec-2024 15:12:05 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 14
+[05-Dec-2024 15:12:05 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 15:12:05 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 36
+[05-Dec-2024 15:12:05 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 15:12:05 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 37
+[05-Dec-2024 15:12:05 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 15:12:05 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 38
+[05-Dec-2024 15:12:05 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 39
+[05-Dec-2024 15:12:05 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 39
+{
+    "email": "abhishekmaurya14112002@gmail.com",
+    "error_type": "mysqli_sql_exception",
+    "error_message": "Access denied for user ''@'localhost' (using password: NO)",
+    "file": "C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php",
+    "line": 35,
+    "trace": "#0 C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php(35): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)\n#1 {main}"
+}[05-Dec-2024 15:13:54 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 10
+[05-Dec-2024 15:13:54 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 11
+[05-Dec-2024 15:13:54 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 12
+[05-Dec-2024 15:13:54 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 13
+[05-Dec-2024 15:13:54 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 14
+[05-Dec-2024 15:13:54 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 62
+[05-Dec-2024 15:13:54 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 62
+[05-Dec-2024 15:13:54 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 63
+[05-Dec-2024 15:13:54 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 63
+[05-Dec-2024 15:13:54 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 64
+[05-Dec-2024 15:13:54 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 64
+[05-Dec-2024 15:13:54 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 65
+[05-Dec-2024 15:13:54 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 65
+{
+    "email": "abhishekmaurya14112002@gmail.com",
+    "error_type": "mysqli_sql_exception",
+    "error_message": "Access denied for user ''@'localhost' (using password: NO)",
+    "file": "C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php",
+    "line": 61,
+    "trace": "#0 C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php(61): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)\n#1 {main}",
+    "server_method": "POST",
+    "content_type": "application\/json"
+}[05-Dec-2024 15:13:55 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 10
+[05-Dec-2024 15:13:55 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 11
+[05-Dec-2024 15:13:55 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 12
+[05-Dec-2024 15:13:55 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 13
+[05-Dec-2024 15:13:55 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 14
+[05-Dec-2024 15:13:55 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 62
+[05-Dec-2024 15:13:55 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 62
+[05-Dec-2024 15:13:55 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 63
+[05-Dec-2024 15:13:55 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 63
+[05-Dec-2024 15:13:55 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 64
+[05-Dec-2024 15:13:55 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 64
+[05-Dec-2024 15:13:55 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 65
+[05-Dec-2024 15:13:55 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 65
+{
+    "email": "abhishekmaurya14112002@gmail.com",
+    "error_type": "mysqli_sql_exception",
+    "error_message": "Access denied for user ''@'localhost' (using password: NO)",
+    "file": "C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php",
+    "line": 61,
+    "trace": "#0 C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php(61): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)\n#1 {main}",
+    "server_method": "POST",
+    "content_type": "application\/json"
+}[05-Dec-2024 15:13:55 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 10
+[05-Dec-2024 15:13:55 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 11
+[05-Dec-2024 15:13:55 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 12
+[05-Dec-2024 15:13:55 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 13
+[05-Dec-2024 15:13:55 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 14
+[05-Dec-2024 15:13:55 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 62
+[05-Dec-2024 15:13:55 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 62
+[05-Dec-2024 15:13:55 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 63
+[05-Dec-2024 15:13:55 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 63
+[05-Dec-2024 15:13:55 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 64
+[05-Dec-2024 15:13:55 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 64
+[05-Dec-2024 15:13:55 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 65
+[05-Dec-2024 15:13:55 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 65
+{
+    "email": "abhishekmaurya14112002@gmail.com",
+    "error_type": "mysqli_sql_exception",
+    "error_message": "Access denied for user ''@'localhost' (using password: NO)",
+    "file": "C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php",
+    "line": 61,
+    "trace": "#0 C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php(61): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)\n#1 {main}",
+    "server_method": "POST",
+    "content_type": "application\/json"
+}[05-Dec-2024 15:13:55 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 10
+[05-Dec-2024 15:13:55 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 11
+[05-Dec-2024 15:13:55 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 12
+[05-Dec-2024 15:13:55 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 13
+[05-Dec-2024 15:13:55 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 14
+[05-Dec-2024 15:13:55 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 62
+[05-Dec-2024 15:13:55 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 62
+[05-Dec-2024 15:13:55 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 63
+[05-Dec-2024 15:13:55 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 63
+[05-Dec-2024 15:13:55 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 64
+[05-Dec-2024 15:13:55 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 64
+[05-Dec-2024 15:13:55 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 65
+[05-Dec-2024 15:13:55 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 65
+{
+    "email": "abhishekmaurya14112002@gmail.com",
+    "error_type": "mysqli_sql_exception",
+    "error_message": "Access denied for user ''@'localhost' (using password: NO)",
+    "file": "C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php",
+    "line": 61,
+    "trace": "#0 C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php(61): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)\n#1 {main}",
+    "server_method": "POST",
+    "content_type": "application\/json"
+}[05-Dec-2024 15:14:02 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 10
+[05-Dec-2024 15:14:02 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 11
+[05-Dec-2024 15:14:02 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 12
+[05-Dec-2024 15:14:02 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 13
+[05-Dec-2024 15:14:02 Asia/Kolkata] PHP Warning:  ini_set(): Session ini settings cannot be changed when a session is active in C:\xampp\htdocs\FarmCS\handlers\session_handler.php on line 14
+[05-Dec-2024 15:14:02 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 62
+[05-Dec-2024 15:14:02 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 62
+[05-Dec-2024 15:14:02 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 63
+[05-Dec-2024 15:14:02 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 63
+[05-Dec-2024 15:14:02 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 64
+[05-Dec-2024 15:14:02 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 64
+[05-Dec-2024 15:14:02 Asia/Kolkata] PHP Warning:  Undefined variable $db_config in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 65
+[05-Dec-2024 15:14:02 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 65
+{
+    "email": "abhishekmaurya14112002@gmail.com",
+    "error_type": "mysqli_sql_exception",
+    "error_message": "Access denied for user ''@'localhost' (using password: NO)",
+    "file": "C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php",
+    "line": 61,
+    "trace": "#0 C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php(61): mysqli->__construct(NULL, NULL, Object(SensitiveParameterValue), NULL)\n#1 {main}",
+    "server_method": "POST",
+    "content_type": "application\/json"
+}{
+    "email": "abhishekmaurya14112002@gmail.com",
+    "error_type": "Exception",
+    "error_message": "User not found",
+    "file": "C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php",
+    "line": 116,
+    "trace": "#0 {main}",
+    "server_method": "POST",
+    "content_type": "application\/json"
+}{
+    "email": "abhishekmaurya14112002@gmail.com",
+    "error_type": "Exception",
+    "error_message": "User not found",
+    "file": "C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php",
+    "line": 116,
+    "trace": "#0 {main}",
+    "server_method": "POST",
+    "content_type": "application\/json"
+}{
+    "email": "abhishekmaurya14112002@gmail.com",
+    "error_type": "Exception",
+    "error_message": "User not found",
+    "file": "C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php",
+    "line": 116,
+    "trace": "#0 {main}",
+    "server_method": "POST",
+    "content_type": "application\/json"
+}{
+    "email": "abhishekmaurya14112002@gmail.com",
+    "error_type": "mysqli_sql_exception",
+    "error_message": "Unknown column 'id' in 'field list'",
+    "file": "C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php",
+    "line": 88,
+    "trace": "#0 C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php(88): mysqli->prepare('\\n        SELECT...')\n#1 {main}",
+    "server_method": "POST",
+    "content_type": "application\/json"
+}{
+    "email": "abhishekmaurya14112002@gmail.com",
+    "error_type": "mysqli_sql_exception",
+    "error_message": "Unknown column 'id' in 'field list'",
+    "file": "C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php",
+    "line": 88,
+    "trace": "#0 C:\\xampp\\htdocs\\FarmCS\\handlers\\login_handler.php(88): mysqli->prepare('\\n        SELECT...')\n#1 {main}",
+    "server_method": "POST",
+    "content_type": "application\/json"
+}Unknown column 'id' in 'field list'Unknown column 'id' in 'field list'Unknown column 'id' in 'field list'Unknown column 'id' in 'field list'Unknown column 'id' in 'field list'Unknown column 'id' in 'field list'Unknown column 'id' in 'field list'Unknown column 'id' in 'field list'User not foundUser not foundUser not foundUser not foundUser not foundUser not foundUser not foundUser not foundInvalid passwordInvalid passwordInvalid passwordInvalid passwordInvalid passwordInvalid passwordInvalid password[12-Dec-2024 09:05:48 Europe/Berlin] PHP Warning:  Uncaught mysqli_sql_exception: MySQL server has gone away in C:\xampp\htdocs\FarmCS\handlers\login_handler.php:119
+Stack trace:
+#0 C:\xampp\htdocs\FarmCS\handlers\login_handler.php(119): mysqli_stmt->execute()
+#1 {main}
+  thrown in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 119
+[12-Dec-2024 09:05:48 Europe/Berlin] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 142
+No connection could be made because the target machine actively refused itNo connection could be made because the target machine actively refused it[13-Dec-2024 07:17:51 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 51
+[13-Dec-2024 07:17:51 Europe/Berlin] PHP Deprecated:  password_verify(): Passing null to parameter #2 ($hash) of type string is deprecated in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 105
+Invalid password[13-Dec-2024 07:38:15 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 51
+[13-Dec-2024 07:38:15 Europe/Berlin] PHP Deprecated:  password_verify(): Passing null to parameter #2 ($hash) of type string is deprecated in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 105
+Invalid password[13-Dec-2024 07:38:20 Europe/Berlin] PHP Deprecated:  Constant FILTER_SANITIZE_STRING is deprecated in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 51
+[13-Dec-2024 07:38:20 Europe/Berlin] PHP Deprecated:  password_verify(): Passing null to parameter #2 ($hash) of type string is deprecated in C:\xampp\htdocs\FarmCS\handlers\login_handler.php on line 105
+Invalid password
